@@ -1,0 +1,993 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "locales": {
+                        "en": {
+                            "title": "Full-Stack Development",
+                            "description": "Designing and maintaining secure, scalable web applications using Python (Flask), Vue.js, Angular, and Node.js, with a focus on cybersecurity and data analytics."
+                        },
+                        "he": {
+                            "title": "פיתוח פול-סטאק",
+                            "description": "עיצוב ותחזוקת אפליקציות ווב מאובטחות ומדרגיות באמצעות Python (Flask), Vue.js, Angular ו-Node.js, עם דגש על אבטחת מידע וניתוח נתונים."
+                        },
+                        "pt": {
+                            "title": "Desenvolvimento Full-Stack",
+                            "description": "Projetando e mantendo aplicações web seguras e escaláveis usando Python (Flask), Vue.js, Angular e Node.js, com foco em cibersegurança e análise de dados."
+                        },
+                        "ar": {
+                            "title": "تطوير Full-Stack",
+                            "description": "تصميم وصيانة تطبيقات ويب آمنة وقابلة للتوسع باستخدام Python (Flask)، Vue.js، Angular وNode.js، مع التركيز على الأمن السيبراني وتحليل البيانات."
+                        },
+                        "ru": {
+                            "title": "Full-Stack Разработка",
+                            "description": "Проектирование и поддержка безопасных и масштабируемых веб-приложений с использованием Python (Flask), Vue.js, Angular и Node.js, с акцентом на кибербезопасность и анализ данных."
+                        },
+                        "ua": {
+                            "title": "Full-Stack Розробка",
+                            "description": "Проєктування та підтримка безпечних і масштабованих веб-додатків із використанням Python (Flask), Vue.js, Angular та Node.js, з акцентом на кібербезпеку та аналіз даних."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-cubes",
+                    "locales": {
+                        "en": {
+                            "title": "API & Microservices",
+                            "description": "Building RESTful APIs and microservices for modular, high-performance systems supporting security and analytics workflows."
+                        },
+                        "he": {
+                            "title": "API ומיקרו-שירותים",
+                            "description": "בניית API ומיקרו-שירותים עבור מערכות מודולריות וביצועיות עם תמיכה בתהליכי אבטחה וניתוח נתונים."
+                        },
+                        "pt": {
+                            "title": "API & Microsserviços",
+                            "description": "Construção de APIs RESTful e microsserviços para sistemas modulares de alto desempenho que suportam fluxos de trabalho de segurança e análise."
+                        },
+                        "ar": {
+                            "title": "API وMicroservices",
+                            "description": "بناء واجهات RESTful API وخدمات مصغرة لأنظمة معيارية وعالية الأداء تدعم تدفقات العمل للأمن وتحليل البيانات."
+                        },
+                        "ru": {
+                            "title": "API и Микросервисы",
+                            "description": "Создание RESTful API и микросервисов для модульных высокопроизводительных систем с поддержкой процессов безопасности и аналитики."
+                        },
+                        "ua": {
+                            "title": "API та Мікросервіси",
+                            "description": "Створення RESTful API та мікросервісів для модульних високопродуктивних систем, що підтримують процеси безпеки та аналітики."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-cloud",
+                    "locales": {
+                        "en": {
+                            "title": "Cloud Infrastructure & DevOps",
+                            "description": "Deploying containerized applications in Docker on AWS (S3, EC2, IAM), with GitLab CI/CD pipelines for automated testing, secure deployments, and uptime reliability. Implemented monitoring, access control, and scaling strategies to ensure secure and resilient operations."
+                        },
+                        "he": {
+                            "title": "תשתיות ענן ו-DevOps",
+                            "description": "פריסת אפליקציות מכוליות ב-Docker על AWS (S3, EC2, IAM), עם pipelines של GitLab CI/CD לבדיקות אוטומטיות, פריסות מאובטחות ואמינות זמינות. יישום ניטור, בקרת גישה ואסטרטגיות סקיילינג להבטחת פעולות מאובטחות ויציבות."
+                        },
+                        "pt": {
+                            "title": "Infraestrutura Cloud & DevOps",
+                            "description": "Implantação de aplicações conteinerizadas no Docker na AWS (S3, EC2, IAM), com pipelines GitLab CI/CD para testes automáticos, deploys seguros e alta disponibilidade. Implementação de monitoramento, controle de acesso e estratégias de escalabilidade para operações seguras e resilientes."
+                        },
+                        "ar": {
+                            "title": "البنية التحتية السحابية وDevOps",
+                            "description": "نشر التطبيقات الحاوية باستخدام Docker على AWS (S3، EC2، IAM)، مع خطوط CI/CD في GitLab للاختبارات التلقائية، والنشر الآمن، وضمان استمرارية التشغيل. تنفيذ المراقبة والتحكم بالوصول واستراتيجيات التوسع لضمان عمليات آمنة ومرنة."
+                        },
+                        "ru": {
+                            "title": "Облачная инфраструктура и DevOps",
+                            "description": "Развертывание контейнеризованных приложений в Docker на AWS (S3, EC2, IAM) с использованием конвейеров GitLab CI/CD для автоматизированного тестирования, безопасного развертывания и надежной работы. Реализован мониторинг, контроль доступа и стратегии масштабирования для безопасной и устойчивой работы."
+                        },
+                        "ua": {
+                            "title": "Хмарна інфраструктура та DevOps",
+                            "description": "Розгортання контейнеризованих додатків у Docker на AWS (S3, EC2, IAM) з пайплайнами GitLab CI/CD для автоматизованого тестування, безпечного розгортання та надійності. Впроваджено моніторинг, контроль доступу та стратегії масштабування для безпечної та стійкої роботи."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-solid fa-server",
+                    "locales": {
+                        "en": {
+                            "title": "Backend Engineering & Data Processing",
+                            "description": "Implementing server logic to process large datasets with Python, Flask, and databases (MongoDB/MySQL). Integrated AI-driven threat detection pipelines and ensured seamless front-end communication."
+                        },
+                        "he": {
+                            "title": "הנדסת Backend ועיבוד נתונים",
+                            "description": "מימוש לוגיקת שרת לעיבוד מערכי נתונים גדולים באמצעות Python, Flask ומסדי נתונים (MongoDB/MySQL). שילוב צינורות לזיהוי איומים מבוססי AI והבטחת תקשורת חלקה עם Frontend."
+                        },
+                        "pt": {
+                            "title": "Engenharia Backend & Processamento de Dados",
+                            "description": "Implementação da lógica de servidor para processar grandes conjuntos de dados com Python, Flask e bancos de dados (MongoDB/MySQL). Integração de pipelines de detecção de ameaças baseadas em IA e garantia de comunicação fluida com o front-end."
+                        },
+                        "ar": {
+                            "title": "هندسة الخلفية ومعالجة البيانات",
+                            "description": "تنفيذ منطق الخادم لمعالجة مجموعات بيانات كبيرة باستخدام Python وFlask وقواعد البيانات (MongoDB/MySQL). دمج خطوط كشف التهديدات باستخدام الذكاء الاصطناعي وضمان التواصل السلس مع الواجهة الأمامية."
+                        },
+                        "ru": {
+                            "title": "Инженерия Backend и обработка данных",
+                            "description": "Реализация серверной логики для обработки больших наборов данных с использованием Python, Flask и баз данных (MongoDB/MySQL). Интеграция конвейеров обнаружения угроз на основе ИИ и обеспечение беспроблемного взаимодействия с фронтендом."
+                        },
+                        "ua": {
+                            "title": "Інженерія Backend та обробка даних",
+                            "description": "Реалізація серверної логіки для обробки великих наборів даних за допомогою Python, Flask та баз даних (MongoDB/MySQL). Інтеграція конвеєрів виявлення загроз на основі AI та забезпечення безперебійного зв'язку з фронтендом."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-solid fa-bug-slash",
+                    "locales": {
+                        "en": {
+                            "title": "Production Support & Debugging",
+                            "description": "Provided hands-on support for high-impact applications, troubleshooting and resolving critical issues in real time. Diagnosed problems via logs, system monitoring, and version/revision review. Documented and tracked issues for root cause analysis and future prevention. Collaborated with development, operations, and security teams to implement fixes across microservice and containerized environments."
+                        },
+                        "he": {
+                            "title": "תמיכה בפרודקשן ו-debugging",
+                            "description": "סיפק תמיכה ישירה לאפליקציות בעלות השפעה גבוהה, פתרון בעיות קריטיות בזמן אמת. אבחון בעיות דרך לוגים, ניטור מערכת ובדיקת גרסאות. תיעוד ומעקב אחר בעיות לניתוח גורמים ומניעה עתידית. שיתוף פעולה עם צוותי פיתוח, תפעול ואבטחה ליישום תיקונים בסביבות מיקרו-שירות ומכולות."
+                        },
+                        "pt": {
+                            "title": "Suporte à Produção & Depuração",
+                            "description": "Forneceu suporte prático para aplicações de alto impacto, solucionando problemas críticos em tempo real. Diagnosticou problemas via logs, monitoramento de sistema e revisão de versões. Documentou e rastreou problemas para análise de causa raiz e prevenção futura. Colaborou com equipes de desenvolvimento, operações e segurança para implementar correções em ambientes de microsserviços e conteinerizados."
+                        },
+                        "ar": {
+                            "title": "دعم الإنتاج وتصحيح الأخطاء",
+                            "description": "قدمت دعمًا عمليًا لتطبيقات عالية التأثير، مع استكشاف الأخطاء وإصلاحها في الوقت الفعلي. تم تشخيص المشاكل من خلال السجلات ومراقبة النظام ومراجعة النسخ/الإصدارات. توثيق وتتبع المشكلات لتحليل السبب الجذري ومنعها مستقبلًا. التعاون مع فرق التطوير والتشغيل والأمن لتنفيذ الإصلاحات عبر بيئات الميكروسيرفيس والحاويات."
+                        },
+                        "ru": {
+                            "title": "Поддержка в Продакшене и Отладка",
+                            "description": "Предоставление практической поддержки для приложений с высоким воздействием, устранение критических проблем в реальном времени. Диагностика проблем через логи, мониторинг системы и проверку версий/ревизий. Документирование и отслеживание проблем для анализа корневых причин и предотвращения в будущем. Сотрудничество с командами разработки, эксплуатации и безопасности для внедрения исправлений в микросервисных и контейнеризованных средах."
+                        },
+                        "ua": {
+                            "title": "Підтримка Продакшн та Налагодження",
+                            "description": "Надання практичної підтримки для високовпливових додатків, усунення критичних проблем у реальному часі. Діагностика проблем через логи, моніторинг системи та перегляд версій/ревізій. Документування та відстеження проблем для аналізу кореневих причин та запобігання у майбутньому. Співпраця з командами розробки, операцій та безпеки для впровадження виправлень у мікросервісних та контейнеризованих середовищах."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "fallbackFaIcon": "fa-brands fa-edge-legacy",
+                    "locales": {
+                        "en": {
+                            "title": "Legacy Modernization",
+                            "description": "Refactored legacy codebases, replaced deprecated libraries, and migrated applications to modern frameworks, improving maintainability, security, and performance."
+                        },
+                        "he": {
+                            "title": "מודרניזציה של קוד ישן",
+                            "description": "ריפקטור של בסיסי קוד ישנים, החלפת ספריות מיושנות והעברת אפליקציות לפלטפורמות מודרניות, לשיפור תחזוקה, אבטחה וביצועים."
+                        },
+                        "pt": {
+                            "title": "Modernização de Sistemas Legados",
+                            "description": "Refatoração de bases de código legadas, substituição de bibliotecas obsoletas e migração de aplicações para frameworks modernos, melhorando a manutenibilidade, segurança e desempenho."
+                        },
+                        "ar": {
+                            "title": "تحديث الأنظمة القديمة",
+                            "description": "إعادة هيكلة قواعد الشيفرة القديمة، استبدال المكتبات المهجورة، ونقل التطبيقات إلى أطر عمل حديثة، مما يحسن القابلية للصيانة والأمان والأداء."
+                        },
+                        "ru": {
+                            "title": "Модернизация Наследуемого Кода",
+                            "description": "Рефакторинг устаревших кодовых баз, замена устаревших библиотек и перенос приложений на современные фреймворки, улучшение сопровождения, безопасности и производительности."
+                        },
+                        "ua": {
+                            "title": "Модернізація Успадкованого Коду",
+                            "description": "Рефакторинг застарілих кодових баз, заміна застарілих бібліотек і міграція додатків на сучасні фреймворки, покращення підтримки, безпеки та продуктивності."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "fallbackFaIcon": "fa-solid fa-shield-halved",
+                    "locales": {
+                        "en": {
+                            "title": "Security",
+                            "description": "Experience with malware analysis, introductory reverse engineering, and testing web applications for vulnerabilities. Ensured secure coding practices, mitigated risks, and supported compliance with data protection standards."
+                        },
+                        "he": {
+                            "title": "אבטחה",
+                            "description": "ניסיון בניתוח תוכנות זדוניות, הנדסה הפוכה בסיסית ובדיקת יישומי ווב לפגיעויות. הבטחת תהליכי קידוד מאובטחים, צמצום סיכונים ותמיכה בציות לסטנדרטים של הגנת מידע."
+                        },
+                        "pt": {
+                            "title": "Segurança",
+                            "description": "Experiência em análise de malware, engenharia reversa introdutória e testes de aplicações web em busca de vulnerabilidades. Garantia de práticas de codificação seguras, mitigação de riscos e suporte à conformidade com normas de proteção de dados."
+                        },
+                        "ar": {
+                            "title": "الأمن السيبراني",
+                            "description": "خبرة في تحليل البرمجيات الخبيثة، والهندسة العكسية الأساسية، واختبار تطبيقات الويب للكشف عن الثغرات. ضمان ممارسات ترميز آمنة، التخفيف من المخاطر ودعم الامتثال لمعايير حماية البيانات."
+                        },
+                        "ru": {
+                            "title": "Безопасность",
+                            "description": "Опыт анализа вредоносного ПО, базового обратного инжиниринга и тестирования веб-приложений на уязвимости. Обеспечение безопасных практик кодирования, снижение рисков и поддержка соответствия стандартам защиты данных."
+                        },
+                        "ua": {
+                            "title": "Безпека",
+                            "description": "Досвід аналізу шкідливого ПЗ, базової зворотної розробки та тестування веб-додатків на вразливості. Забезпечення безпечних практик кодування, зменшення ризиків та підтримка відповідності стандартам захисту даних."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning",
+                            "description": "Implemented infrastructure, additional features, and bug fixes for machine learning systems in a regional microservice environment, supporting threat detection and phishing classification workflows. Experienced in integrating models into production pipelines and developing applications using large language models (LLMs)."
+                        },
+                        "he": {
+                            "title": "למידת מכונה",
+                            "description": "יישום תשתיות, תכונות נוספות ותיקוני באגים למערכות למידת מכונה בסביבת מיקרו-שירות אזורית, עם תמיכה בזיהוי איומים וסיווג פישינג. ניסיון בהטמעת מודלים בצינורות פרודקשן ופיתוח אפליקציות באמצעות מודלים שפתיים גדולים (LLMs)."
+                        },
+                        "pt": {
+                            "title": "Aprendizado de Máquina",
+                            "description": "Implementação de infraestrutura, recursos adicionais e correções de bugs para sistemas de aprendizado de máquina em ambiente regional de microsserviços, suportando fluxos de detecção de ameaças e classificação de phishing. Experiência em integração de modelos em pipelines de produção e desenvolvimento de aplicações usando modelos de linguagem de grande porte (LLMs)."
+                        },
+                        "ar": {
+                            "title": "تعلم الآلة",
+                            "description": "تنفيذ البنية التحتية والميزات الإضافية وتصحيح الأخطاء لأنظمة تعلم الآلة في بيئة ميكروسيرفيس إقليمية، مع دعم اكتشاف التهديدات وتصنيف التصيد الاحتيالي. خبرة في دمج النماذج في خطوط الإنتاج وتطوير التطبيقات باستخدام نماذج اللغة الكبيرة (LLMs)."
+                        },
+                        "ru": {
+                            "title": "Машинное Обучение",
+                            "description": "Реализация инфраструктуры, дополнительных функций и исправлений ошибок для систем машинного обучения в региональной микросервисной среде, поддержка процессов обнаружения угроз и классификации фишинга. Опыт интеграции моделей в производственные конвейеры и разработки приложений с использованием больших языковых моделей (LLMs)."
+                        },
+                        "ua": {
+                            "title": "Машинне Навчання",
+                            "description": "Реалізація інфраструктури, додаткових функцій та виправлень помилок для систем машинного навчання в регіональному середовищі мікросервісів, підтримка процесів виявлення загроз та класифікації фішингу. Досвід інтеграції моделей у виробничі пайплайни та розробки додатків з використанням великих мовних моделей (LLMs)."
+                        }                    
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": { "title": "Vue Stack" },
+                "he": { "title": "Vue-Stack" },
+                "pt": { "title": "Stack Vue" },
+                "ar": { "title": "Vue ستاك" },
+                "ru": { "title": "Vue Стек" },
+                "ua": { "title": "Vue Стек" }
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Vue 3",
+                            "description": "Building modern, performant apps using the Composition API and reactive data binding."
+                        },
+                        "he": {
+                            "title": "Vue 3",
+                            "description": "פיתוח אפליקציות מודרניות וביצועיות באמצעות Composition API וקישור נתונים ריאקטיבי."
+                        },
+                        "pt": {
+                            "title": "Vue 3",
+                            "description": "Desenvolvendo aplicações modernas e performáticas usando a Composition API e binding reativo de dados."
+                        },
+                        "ar": {
+                            "title": "Vue 3",
+                            "description": "بناء تطبيقات حديثة وعالية الأداء باستخدام Composition API وربط البيانات التفاعلي."
+                        },
+                        "ru": {
+                            "title": "Vue 3",
+                            "description": "Создание современных, производительных приложений с использованием Composition API и реактивной привязки данных."
+                        },
+                        "ua": {
+                            "title": "Vue 3",
+                            "description": "Створення сучасних високопродуктивних додатків із використанням Composition API та реактивного зв'язування даних."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-diagram-project",
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Vuex & Pinia",
+                            "description": "Managing complex state in large apps with centralized stores and modular patterns."
+                        },
+                        "he": {
+                            "title": "Vuex & Pinia",
+                            "description": "ניהול מצב מורכב באפליקציות גדולות באמצעות חנויות מרכזיות ודפוסי מודולריות."
+                        },
+                        "pt": {
+                            "title": "Vuex & Pinia",
+                            "description": "Gerenciamento de estado complexo em grandes aplicações com stores centralizados e padrões modulares."
+                        },
+                        "ar": {
+                            "title": "Vuex & Pinia",
+                            "description": "إدارة الحالة المعقدة في التطبيقات الكبيرة باستخدام مخازن مركزية وأنماط معيارية."
+                        },
+                        "ru": {
+                            "title": "Vuex & Pinia",
+                            "description": "Управление сложным состоянием в крупных приложениях с централизованными хранилищами и модульными шаблонами."
+                        },
+                        "ua": {
+                            "title": "Vuex & Pinia",
+                            "description": "Управління складним станом у великих додатках за допомогою централізованих сховищ та модульних патернів."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-screwdriver-wrench",
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Vue CLI",
+                            "description": "Efficient app scaffolding, local development, and builds using CLI and Vite."
+                        },
+                        "he": {
+                            "title": "Vue CLI",
+                            "description": "הקמה יעילה של אפליקציות, פיתוח מקומי ובניית אפליקציות באמצעות CLI ו-Vite."
+                        },
+                        "pt": {
+                            "title": "Vue CLI",
+                            "description": "Estruturação eficiente de apps, desenvolvimento local e builds usando CLI e Vite."
+                        },
+                        "ar": {
+                            "title": "Vue CLI",
+                            "description": "هيكلة فعالة للتطبيقات، التطوير المحلي، والبناء باستخدام CLI و Vite."
+                        },
+                        "ru": {
+                            "title": "Vue CLI",
+                            "description": "Эффективная структура приложения, локальная разработка и сборка с использованием CLI и Vite."
+                        },
+                        "ua": {
+                            "title": "Vue CLI",
+                            "description": "Ефективне створення додатків, локальна розробка та збірки за допомогою CLI та Vite."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-globe",
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Nuxt",
+                            "description": "Building performant, SEO-friendly Vue apps with SSR and static generation."
+                        },
+                        "he": {
+                            "title": "Nuxt",
+                            "description": "פיתוח אפליקציות Vue מהירות וידידותיות ל-SEO עם SSR ויצירת דפים סטטיים."
+                        },
+                        "pt": {
+                            "title": "Nuxt",
+                            "description": "Construindo apps Vue performáticos e otimizados para SEO com SSR e geração estática."
+                        },
+                        "ar": {
+                            "title": "Nuxt",
+                            "description": "بناء تطبيقات Vue سريعة وصديقة لمحركات البحث باستخدام SSR والتوليد الثابت."
+                        },
+                        "ru": {
+                            "title": "Nuxt",
+                            "description": "Создание производительных Vue-приложений, оптимизированных для SEO, с SSR и статической генерацией."
+                        },
+                        "ua": {
+                            "title": "Nuxt",
+                            "description": "Створення високопродуктивних Vue-додатків, оптимізованих для SEO, з SSR та статичною генерацією."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-plug",
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "API Integration",
+                            "description": "Fetching and managing remote data using Axios and Fetch, with error handling and loading states."
+                        },
+                        "he": {
+                            "title": "אינטגרציית API",
+                            "description": "שליפת וניהול נתונים מרוחקים באמצעות Axios ו-Fetch, כולל טיפול בשגיאות ומצבי טעינה."
+                        },
+                        "pt": {
+                            "title": "Integração de API",
+                            "description": "Buscando e gerenciando dados remotos usando Axios e Fetch, com tratamento de erros e estados de carregamento."
+                        },
+                        "ar": {
+                            "title": "تكامل API",
+                            "description": "جلب وإدارة البيانات البعيدة باستخدام Axios و Fetch، مع معالجة الأخطاء وحالات التحميل."
+                        },
+                        "ru": {
+                            "title": "Интеграция API",
+                            "description": "Получение и управление удаленными данными с помощью Axios и Fetch, с обработкой ошибок и состояниями загрузки."
+                        },
+                        "ua": {
+                            "title": "Інтеграція API",
+                            "description": "Отримання та управління віддаленими даними за допомогою Axios і Fetch, із обробкою помилок та станів завантаження."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-route",
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Vue Router",
+                            "description": "Implementing client-side routing, nested routes, and dynamic route guards with Vue Router."
+                        },
+                        "he": {
+                            "title": "Vue Router",
+                            "description": "יישום ניתוב בצד הלקוח, נתיבים מקוננים ושמירה דינמית על מסלולים עם Vue Router."
+                        },
+                        "pt": {
+                            "title": "Vue Router",
+                            "description": "Implementando roteamento no lado do cliente, rotas aninhadas e guards dinâmicos com Vue Router."
+                        },
+                        "ar": {
+                            "title": "Vue Router",
+                            "description": "تنفيذ التوجيه على جانب العميل، المسارات المتداخلة، وحراس المسارات الديناميكية باستخدام Vue Router."
+                        },
+                        "ru": {
+                            "title": "Vue Router",
+                            "description": "Реализация маршрутизации на стороне клиента, вложенных маршрутов и динамических защит маршрутов с Vue Router."
+                        },
+                        "ua": {
+                            "title": "Vue Router",
+                            "description": "Реалізація маршрутизації на стороні клієнта, вкладених маршрутів та динамічних охорон маршрутів з Vue Router."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-vial-circle-check",
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Jest",
+                            "description": "Writing and maintaining unit tests for frontend and backend code. Experienced in mocking, snapshot testing, and ensuring reliable, maintainable test coverage for Vue and Python projects."
+                        },
+                        "he": {
+                            "title": "Jest",
+                            "description": "כתיבה ותחזוקה של בדיקות יחידה לקוד frontend ו-backend. ניסיון ב-mocking, snapshot testing והבטחת כיסוי בדיקות אמין ובר קיימא לפרויקטים ב-Vue וב-Python."
+                        },
+                        "pt": {
+                            "title": "Jest",
+                            "description": "Escrevendo e mantendo testes unitários para código frontend e backend. Experiência em mocking, testes de snapshot e garantindo cobertura de teste confiável e sustentável para projetos Vue e Python."
+                        },
+                        "ar": {
+                            "title": "Jest",
+                            "description": "كتابة وصيانة اختبارات الوحدة للكود الأمامي والخلفي. خبرة في المحاكاة، اختبارات اللقطة، وضمان تغطية اختبار موثوقة وقابلة للصيانة لمشاريع Vue وPython."
+                        },
+                        "ru": {
+                            "title": "Jest",
+                            "description": "Написание и поддержка модульных тестов для фронтенд и бекенд кода. Опыт работы с mocking, snapshot тестированием и обеспечением надежного, поддерживаемого покрытия тестов для проектов на Vue и Python."
+                        },
+                        "ua": {
+                            "title": "Jest",
+                            "description": "Написання та підтримка юніт-тестів для фронтенд і бекенд коду. Досвід у mocking, snapshot тестуванні та забезпеченні надійного, підтримуваного покриття тестів для проєктів Vue і Python."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-palette",
+                    "percentage": 70,
+                    "locales": {
+                        "en": {
+                            "title": "Vuetify & Bootstrap Libraries",
+                            "description": "Experience using Vuetify and BootstrapVue for building responsive, accessible UI components and accelerating frontend development."
+                        },
+                        "he": {
+                            "title": "Vuetify & ספריות Bootstrap",
+                            "description": "ניסיון בשימוש ב-Vuetify וב-BootstrapVue לבניית רכיבי UI רספונסיביים ונגישים ולהאצת פיתוח Frontend."
+                        },
+                        "pt": {
+                            "title": "Bibliotecas Vuetify & Bootstrap",
+                            "description": "Experiência usando Vuetify e BootstrapVue para construir componentes de UI responsivos e acessíveis, acelerando o desenvolvimento frontend."
+                        },
+                        "ar": {
+                            "title": "مكتبات Vuetify و Bootstrap",
+                            "description": "خبرة في استخدام Vuetify وBootstrapVue لبناء مكونات واجهة مستخدم متجاوبة وسهلة الوصول وتسريع تطوير الواجهة الأمامية."
+                        },
+                        "ru": {
+                            "title": "Библиотеки Vuetify & Bootstrap",
+                            "description": "Опыт использования Vuetify и BootstrapVue для создания адаптивных, доступных компонентов UI и ускорения разработки фронтенда."
+                        },
+                        "ua": {
+                            "title": "Бібліотеки Vuetify & Bootstrap",
+                            "description": "Досвід використання Vuetify та BootstrapVue для створення адаптивних, доступних компонентів UI та прискорення розробки фронтенду."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": { "title": "Additional Tools & Technologies" },
+                "he": { "title": "כלים וטכנולוגיות נוספות" },
+                "pt": { "title": "Ferramentas e Tecnologias Adicionais" },
+                "ar": { "title": "أدوات وتقنيات إضافية" },
+                "ru": { "title": "Дополнительные инструменты и технологии" },
+                "ua": { "title": "Додаткові інструменти та технології" }
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": { "year": 2017, "month": 10 },
+                    "fallbackFaIcon": "fa-brands fa-python",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Python",
+                            "description": "Extensive experience using Python for backend development, data processing, and automation. Strong background in building RESTful APIs with Flask, integrating machine learning models, and writing scalable, maintainable server-side logic."
+                        },
+                        "he": {
+                            "title": "Python",
+                            "description": "ניסיון נרחב בשימוש ב-Python לפיתוח צד שרת, עיבוד נתונים ואוטומציה. רקע חזק בבניית RESTful APIs עם Flask, אינטגרציה של מודלים של למידת מכונה וכתיבת לוגיקה צד שרת ניתנת להרחבה ותחזוקה."
+                        },
+                        "pt": {
+                            "title": "Python",
+                            "description": "Experiência extensa em Python para desenvolvimento backend, processamento de dados e automação. Forte experiência na construção de APIs RESTful com Flask, integração de modelos de machine learning e escrita de lógica de servidor escalável e manutenível."
+                        },
+                        "ar": {
+                            "title": "Python",
+                            "description": "خبرة واسعة في استخدام Python لتطوير الخوادم، معالجة البيانات، والأتمتة. خلفية قوية في بناء واجهات برمجة تطبيقات RESTful باستخدام Flask، ودمج نماذج التعلم الآلي، وكتابة منطق خادمي قابل للتطوير والصيانة."
+                        },
+                        "ru": {
+                            "title": "Python",
+                            "description": "Обширный опыт использования Python для серверной разработки, обработки данных и автоматизации. Сильный опыт создания RESTful API с Flask, интеграции моделей машинного обучения и написания масштабируемой, поддерживаемой серверной логики."
+                        },
+                        "ua": {
+                            "title": "Python",
+                            "description": "Широкий досвід використання Python для бекенд-розробки, обробки даних та автоматизації. Міцний досвід у створенні RESTful API з Flask, інтеграції моделей машинного навчання та написанні масштабованої та підтримуваної серверної логіки."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-solid fa-flask",
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Flask",
+                            "description": "Developed secure, lightweight web applications and APIs with Flask. Experienced in integrating Flask services with databases, authentication layers, and cloud infrastructure to support scalable, production-ready deployments."
+                        },
+                        "he": {
+                            "title": "Flask",
+                            "description": "פיתוח יישומי ווב ו-APIs קלים ובטוחים באמצעות Flask. ניסיון באינטגרציה של שירותי Flask עם מסדי נתונים, שכבות אימות ותשתיות ענן לתמיכה בפריסות מוכנות לייצור."
+                        },
+                        "pt": {
+                            "title": "Flask",
+                            "description": "Desenvolvimento de aplicações web leves e seguras e APIs com Flask. Experiência na integração de serviços Flask com bancos de dados, camadas de autenticação e infraestrutura em nuvem para suportar deploys escaláveis e prontos para produção."
+                        },
+                        "ar": {
+                            "title": "Flask",
+                            "description": "تطوير تطبيقات ويب وواجهات برمجة تطبيقات خفيفة وآمنة باستخدام Flask. خبرة في دمج خدمات Flask مع قواعد البيانات وطبقات المصادقة والبنية التحتية السحابية لدعم عمليات النشر القابلة للتوسع وجاهزة للإنتاج."
+                        },
+                        "ru": {
+                            "title": "Flask",
+                            "description": "Разработка безопасных, легковесных веб-приложений и API с Flask. Опыт интеграции сервисов Flask с базами данных, слоями аутентификации и облачной инфраструктурой для поддержки масштабируемых, готовых к продакшену развёртываний."
+                        },
+                        "ua": {
+                            "title": "Flask",
+                            "description": "Розробка безпечних, легких веб-додатків та API з Flask. Досвід інтеграції сервісів Flask з базами даних, шарами автентифікації та хмарною інфраструктурою для підтримки масштабованих, готових до продакшену розгортань."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": { "year": 2019, "month": 10 },
+                    "fallbackFaIcon": "fa-solid fa-vial-circle-check",
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "Pytest",
+                            "description": "Designed and maintained automated test suites using Pytest. Skilled in unit, integration, and regression testing for Python applications, including mocking, fixtures, and test-driven development (TDD) for improved reliability."
+                        },
+                        "he": {
+                            "title": "Pytest",
+                            "description": "עיצוב ותחזוקה של סטים אוטומטיים של בדיקות באמצעות Pytest. מיומן בבדיקות יחידה, אינטגרציה ורגרסיה עבור יישומי Python, כולל mocking, fixtures ופיתוח מונחה בדיקות (TDD) לשיפור האמינות."
+                        },
+                        "pt": {
+                            "title": "Pytest",
+                            "description": "Desenvolvimento e manutenção de suítes de testes automatizados usando Pytest. Habilidade em testes unitários, de integração e de regressão para aplicações Python, incluindo mocking, fixtures e desenvolvimento orientado a testes (TDD) para maior confiabilidade."
+                        },
+                        "ar": {
+                            "title": "Pytest",
+                            "description": "تصميم وصيانة مجموعات الاختبارات الآلية باستخدام Pytest. مهارة في اختبار الوحدة، التكامل والانحدار لتطبيقات Python، بما في ذلك المحاكاة، fixtures والتطوير الموجه بالاختبارات (TDD) لتحسين الموثوقية."
+                        },
+                        "ru": {
+                            "title": "Pytest",
+                            "description": "Проектирование и поддержка автоматизированных тестов с использованием Pytest. Опыт в юнит-, интеграционном и регрессионном тестировании Python-приложений, включая mocking, fixtures и разработку через тестирование (TDD) для повышения надежности."
+                        },
+                        "ua": {
+                            "title": "Pytest",
+                            "description": "Проєктування та підтримка автоматизованих тестів з використанням Pytest. Досвід у юніт-, інтеграційному та регресійному тестуванні Python-додатків, включаючи mocking, fixtures та розробку через тестування (TDD) для підвищення надійності."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-brands fa-angular",
+                    "percentage": 65,
+                    "locales": {
+                        "en": {
+                            "title": "Angular",
+                            "description": "Worked with Angular to build modular, component-driven web applications. Familiar with its TypeScript-based architecture, dependency injection, and RxJS-powered reactive programming for managing data streams."
+                        },
+                        "he": {
+                            "title": "Angular",
+                            "description": "עבודה עם Angular לבניית יישומי ווב מודולריים ומונחי קומפוננטות. מכיר את הארכיטקטורה מבוססת TypeScript, הזרקת תלות ותכנות ריאקטיבי באמצעות RxJS לניהול זרמי נתונים."
+                        },
+                        "pt": {
+                            "title": "Angular",
+                            "description": "Trabalhou com Angular para construir aplicações web modulares e baseadas em componentes. Familiaridade com sua arquitetura baseada em TypeScript, injeção de dependência e programação reativa com RxJS para gerenciar fluxos de dados."
+                        },
+                        "ar": {
+                            "title": "Angular",
+                            "description": "عملت مع Angular لبناء تطبيقات ويب مكونية ومرنة. مألوف بالهندسة المعمارية القائمة على TypeScript، وحقن التبعيات، والبرمجة التفاعلية باستخدام RxJS لإدارة تدفقات البيانات."
+                        },
+                        "ru": {
+                            "title": "Angular",
+                            "description": "Работал с Angular для создания модульных веб-приложений на основе компонентов. Знаком с архитектурой на TypeScript, внедрением зависимостей и реактивным программированием с RxJS для управления потоками данных."
+                        },
+                        "ua": {
+                            "title": "Angular",
+                            "description": "Працював з Angular для створення модульних веб-додатків на основі компонентів. Знайомий з архітектурою на TypeScript, впровадженням залежностей та реактивним програмуванням з RxJS для керування потоками даних."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": { "year": 2024, "month": 2 },
+                    "fallbackFaIcon": "fa-brands fa-aws",
+                    "percentage": 60,
+                    "locales": {
+                        "en": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "Hands-on experience with AWS cloud services. Configured S3 buckets for secure, scalable storage, deployed applications on EC2, and managed IAM roles/policies for access control. Integrated these services into distributed systems for security and scalability."
+                        },
+                        "he": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "ניסיון מעשי עם שירותי ענן של AWS. קונפיגורציית S3 לאחסון מאובטח ומדרגי, פריסת יישומים על EC2, וניהול תפקידים ומדיניות IAM לשליטה בגישה. שילוב השירותים במערכות מבוזרות לאבטחה ומדרגיות."
+                        },
+                        "pt": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "Experiência prática com serviços de nuvem AWS. Configuração de buckets S3 para armazenamento seguro e escalável, deploy de aplicações no EC2 e gerenciamento de funções/políticas IAM para controle de acesso. Integração desses serviços em sistemas distribuídos para segurança e escalabilidade."
+                        },
+                        "ar": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "خبرة عملية في خدمات سحابة AWS. تم تكوين S3 لتخزين آمن وقابل للتوسع، نشر التطبيقات على EC2، وإدارة أدوار وسياسات IAM للتحكم في الوصول. دمج هذه الخدمات في أنظمة موزعة للأمان وقابلية التوسع."
+                        },
+                        "ru": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "Практический опыт работы с облачными сервисами AWS. Настройка S3 для безопасного и масштабируемого хранения, развертывание приложений на EC2, управление ролями/политиками IAM для контроля доступа. Интеграция этих сервисов в распределённые системы для безопасности и масштабируемости."
+                        },
+                        "ua": {
+                            "title": "Amazon AWS - S3 - EC2 - IAM",
+                            "description": "Практичний досвід роботи з хмарними сервісами AWS. Налаштування S3 для безпечного та масштабованого зберігання, розгортання додатків на EC2 та управління ролями/політиками IAM для контролю доступу. Інтеграція цих сервісів у розподілені системи для безпеки та масштабованості."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-brands fa-docker",
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Docker",
+                            "description": "Developed and deployed applications in containerized environments. Built Docker images for frontend and backend services, ensuring consistency across development, testing, and production. Worked with Docker Compose for multi-service orchestration."
+                        },
+                        "he": {
+                            "title": "Docker",
+                            "description": "פיתוח ופריסת יישומים בסביבות מכולות. בניית תמונות Docker לשירותי frontend ו-backend, תוך שמירה על עקביות בין פיתוח, בדיקות וייצור. עבודה עם Docker Compose לתזמור מולטיסרוויסים."
+                        },
+                        "pt": {
+                            "title": "Docker",
+                            "description": "Desenvolvimento e deploy de aplicações em ambientes containerizados. Construção de imagens Docker para serviços frontend e backend, garantindo consistência entre desenvolvimento, testes e produção. Trabalhou com Docker Compose para orquestração de múltiplos serviços."
+                        },
+                        "ar": {
+                            "title": "Docker",
+                            "description": "تطوير ونشر التطبيقات في بيئات الحاويات. إنشاء صور Docker لخدمات الواجهة الأمامية والخلفية، وضمان التناسق بين التطوير والاختبار والإنتاج. العمل مع Docker Compose لتنسيق الخدمات المتعددة."
+                        },
+                        "ru": {
+                            "title": "Docker",
+                            "description": "Разработка и развертывание приложений в контейнеризированных средах. Создание Docker-образов для фронтенд и бэкенд сервисов, обеспечение консистентности между разработкой, тестированием и продакшеном. Работа с Docker Compose для оркестрации нескольких сервисов."
+                        },
+                        "ua": {
+                            "title": "Docker",
+                            "description": "Розробка та розгортання додатків у контейнеризованих середовищах. Створення Docker-образів для фронтенд та бекенд сервісів, забезпечення консистентності між розробкою, тестуванням та продакшеном. Робота з Docker Compose для оркестрації кількох сервісів."
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": { "year": 2019, "month": 12 },
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Git",
+                            "description": "Proficient in Git for version control, branching strategies, and collaborative workflows. Experienced with GitLab and GitHub for code reviews, CI/CD integration, and maintaining clean, reliable repositories across large, distributed teams."
+                        },
+                        "he": {
+                            "title": "Git",
+                            "description": "שליטה ב-Git לניהול גרסאות, אסטרטגיות סניפים ותהליכי עבודה שיתופיים. ניסיון עם GitLab ו-GitHub לסקירות קוד, אינטגרציה של CI/CD ושמירה על מאגרי קוד נקיים ואמינים בצוותים גדולים ומפוזרים."
+                        },
+                        "pt": {
+                            "title": "Git",
+                            "description": "Proficiência em Git para controle de versão, estratégias de branching e fluxos de trabalho colaborativos. Experiência com GitLab e GitHub para revisão de código, integração CI/CD e manutenção de repositórios limpos e confiáveis em equipes grandes e distribuídas."
+                        },
+                        "ar": {
+                            "title": "Git",
+                            "description": "إجادة استخدام Git للتحكم بالإصدارات واستراتيجيات الفروع وتدفقات العمل التعاونية. خبرة في GitLab وGitHub لمراجعة الكود، ودمج CI/CD، والحفاظ على مستودعات نظيفة وموثوقة عبر فرق كبيرة وموزعة."
+                        },
+                        "ru": {
+                            "title": "Git",
+                            "description": "Владение Git для контроля версий, стратегий ветвления и совместных рабочих процессов. Опыт работы с GitLab и GitHub для обзора кода, интеграции CI/CD и поддержания чистых и надежных репозиториев в больших распределённых командах."
+                        },
+                        "ua": {
+                            "title": "Git",
+                            "description": "Володіння Git для контролю версій, стратегій гілок та спільних робочих процесів. Досвід роботи з GitLab та GitHub для перегляду коду, інтеграції CI/CD та підтримки чистих і надійних репозиторіїв у великих розподілених командах."
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": { "year": 2015, "month": 12 },
+                    "fallbackFaIcon": "fa-brands fa-atlassian",
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "Jira",
+                            "description": "Skilled in using Jira to manage Agile workflows, track development tasks, and support sprint planning. Collaborated across teams using Jira dashboards and reporting to ensure transparency and efficient delivery."
+                        },
+                        "he": {
+                            "title": "Jira",
+                            "description": "מיומן בשימוש ב-Jira לניהול תהליכי עבודה אג'ייל, מעקב אחר משימות פיתוח ותמיכה בתכנון ספרינטים. שיתף פעולה בין צוותים באמצעות לוחות מחוונים ודיווחים ב-Jira להבטחת שקיפות ואספקה יעילה."
+                        },
+                        "pt": {
+                            "title": "Jira",
+                            "description": "Habilidade no uso do Jira para gerenciar fluxos de trabalho Ágeis, rastrear tarefas de desenvolvimento e apoiar o planejamento de sprints. Colaboração entre equipes usando dashboards e relatórios do Jira para garantir transparência e entrega eficiente."
+                        },
+                        "ar": {
+                            "title": "Jira",
+                            "description": "مهارة في استخدام Jira لإدارة سير عمل Agile، تتبع مهام التطوير، ودعم تخطيط السبرينت. التعاون بين الفرق باستخدام لوحات التحكم والتقارير في Jira لضمان الشفافية والتسليم الفعال."
+                        },
+                        "ru": {
+                            "title": "Jira",
+                            "description": "Опыт работы с Jira для управления Agile-процессами, отслеживания задач разработки и поддержки планирования спринтов. Сотрудничество между командами с использованием дашбордов и отчетов Jira для обеспечения прозрачности и эффективной доставки."
+                        },
+                        "ua": {
+                            "title": "Jira",
+                            "description": "Досвід роботи з Jira для управління Agile-процесами, відстеження завдань розробки та підтримки планування спринтів. Співпраця між командами за допомогою панелей та звітів Jira для забезпечення прозорості та ефективної доставки."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": { "title": "Languages" },
+                "he": { "title": "שפות" },
+                "pt": { "title": "Línguas" },
+                "ar": { "title": "اللغات" },
+                "ru": { "title": "Языки" },
+                "ua": { "title": "Мови" }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        },
+                        "he": {
+                            "title": "אנגלית",
+                            "description": "שפת אם עם כישורי תקשורת וכתיבה מצוינים.",
+                            "level": "שפת אם"
+                        },
+                        "pt": {
+                            "title": "Inglês",
+                            "description": "Falante nativo com excelentes habilidades de comunicação e escrita.",
+                            "level": "Nativo"
+                        },
+                        "ar": {
+                            "title": "الإنجليزية",
+                            "description": "متحدث أصلي يتمتع بمهارات ممتازة في التواصل والكتابة.",
+                            "level": "اللغة الأم"
+                        },
+                        "ru": {
+                            "title": "Английский",
+                            "description": "Родной язык, отличные навыки общения и письма.",
+                            "level": "Родной"
+                        },
+                        "ua": {
+                            "title": "Англійська",
+                            "description": "Рідна мова з відмінними навичками спілкування та письма.",
+                            "level": "Рідна"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": "images/flags/ru.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Russian",
+                            "description": "Native/fluent in spoken Russian; strong ability to communicate naturally in both formal and informal contexts.",
+                            "level": "Native/Fluent (Spoken)"
+                        },
+                        "he": {
+                            "title": "רוסית",
+                            "description": "שפת אם/שוטפת בדיבור; יכולת תקשורת טבעית בסביבות רשמיות ולא רשמיות.",
+                            "level": "שפת אם/שוטף (דיבור)"
+                        },
+                        "pt": {
+                            "title": "Russo",
+                            "description": "Nativo/fluente em russo falado; capacidade forte de comunicação em contextos formais e informais.",
+                            "level": "Nativo/Fluente (Falado)"
+                        },
+                        "ar": {
+                            "title": "الروسية",
+                            "description": "لغة أم/طلاقة في التحدث بالروسية؛ قدرة قوية على التواصل الطبيعي في السياقات الرسمية وغير الرسمية.",
+                            "level": "لغة أم/طلاقة (شفوي)"
+                        },
+                        "ru": {
+                            "title": "Русский",
+                            "description": "Родной/свободное владение устным русским; уверенное общение в формальных и неформальных контекстах.",
+                            "level": "Родной/Свободный (Устный)"
+                        },
+                        "ua": {
+                            "title": "Російська",
+                            "description": "Рідна/вільна розмовна російська; здатність впевнено спілкуватися як у формальних, так і неформальних контекстах.",
+                            "level": "Рідна/Вільно (усно)"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/flags/is.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Hebrew",
+                            "description": "Intermediate to advanced proficiency; confident communicating in both workplace and informal settings.",
+                            "level": "Intermediate/Advanced"
+                        },
+                        "he": {
+                            "title": "עברית",
+                            "description": "שליטה בינונית עד גבוהה; מסוגל לתקשר בביטחון גם בסביבות עבודה וגם בסביבות לא רשמיות.",
+                            "level": "בינוני/מתקדם"
+                        },
+                        "pt": {
+                            "title": "Hebraico",
+                            "description": "Proficiência intermediária a avançada; confiante ao se comunicar em contextos profissionais e informais.",
+                            "level": "Intermediário/Avançado"
+                        },
+                        "ar": {
+                            "title": "العبرية",
+                            "description": "إجادة متوسطة إلى متقدمة؛ واثق في التواصل في بيئات العمل وغير الرسمية.",
+                            "level": "متوسط/متقدم"
+                        },
+                        "ru": {
+                            "title": "Иврит",
+                            "description": "Средний до продвинутого уровень; уверенное общение как на работе, так и в неформальных ситуациях.",
+                            "level": "Средний/Продвинутый"
+                        },
+                        "ua": {
+                            "title": "Іврит",
+                            "description": "Середній до високого рівня; впевнене спілкування як на роботі, так і у неформальних ситуаціях.",
+                            "level": "Середній/Високий"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": "images/flags/br.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "Portuguese",
+                            "description": "Intermediate level; can handle conversations and understand texts.",
+                            "level": "Intermediate"
+                        },
+                        "he": {
+                            "title": "פורטוגזית",
+                            "description": "רמה בינונית; מסוגל לנהל שיחות ולהבין טקסטים.",
+                            "level": "בינוני"
+                        },
+                        "pt": {
+                            "title": "Português",
+                            "description": "Nível intermediário; capaz de manter conversas e compreender textos.",
+                            "level": "Intermediário"
+                        },
+                        "ar": {
+                            "title": "البرتغالية",
+                            "description": "مستوى متوسط؛ قادر على إدارة المحادثات وفهم النصوص.",
+                            "level": "متوسط"
+                        },
+                        "ru": {
+                            "title": "Португальский",
+                            "description": "Средний уровень; способен поддерживать беседы и понимать тексты.",
+                            "level": "Средний"
+                        },
+                        "ua": {
+                            "title": "Португальська",
+                            "description": "Середній рівень; здатний вести розмови та розуміти тексти.",
+                            "level": "Середній"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

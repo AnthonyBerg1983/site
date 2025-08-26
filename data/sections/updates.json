@@ -1,0 +1,361 @@
+{
+    "articles": [
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Studying...",
+                    "description": "Here's what I'm currently diving into and sharpening my skills in:"
+                },
+                "ar": {
+                    "title": "أدرس حالياً...",
+                    "description": "إليك ما أستكشفه حالياً وأعمل على تحسين مهاراتي فيه:"
+                },
+                "pt": {
+                    "title": "Estudando...",
+                    "description": "Aqui está o que estou explorando atualmente e aprimorando minhas habilidades:"
+                },
+                "ru": {
+                    "title": "Изучаю...",
+                    "description": "Вот чем я сейчас занимаюсь и развиваю свои навыки:"
+                },
+                "ua": {
+                    "title": "Вивчаю...",
+                    "description": "Ось чим я зараз займаюся та вдосконалюю свої навички:"
+                },
+                "he": {
+                    "title": "Ich lerne gerade...",
+                    "description": "Hier siehst du, worin ich gerade eintauche und meine Skills vertiefe:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-laptop-code",
+                    "fallbackFaIconColor": "#616efb",
+                    "percentage": 40,
+                    "locales": {
+                        "en": {
+                            "title": "Data Structures & Algorithms",
+                            "description": "Expanding understanding of arrays, linked lists, stacks, queues, trees, heaps, and hash tables. Practicing algorithm design for sorting, searching, and data manipulation with Python and JavaScript, including recursion, dynamic programming, graph algorithms, and complexity analysis."
+                        },
+                        "ar": {
+                            "title": "هياكل البيانات والخوارزميات",
+                            "description": "توسيع الفهم للمصفوفات والقوائم المرتبطة والمكدسات والطوابير والأشجار والكومات وجداول التجزئة. ممارسة تصميم الخوارزميات للفرز والبحث ومعالجة البيانات باستخدام بايثون وجافا سكريبت، بما في ذلك العودية، البرمجة الديناميكية، خوارزميات الرسم البياني، وتحليل التعقيد."
+                        },
+                        "pt": {
+                            "title": "Estruturas de Dados e Algoritmos",
+                            "description": "Expandindo o entendimento sobre arrays, listas ligadas, pilhas, filas, árvores, heaps e tabelas de hash. Praticando o design de algoritmos para ordenação, busca e manipulação de dados com Python e JavaScript, incluindo recursão, programação dinâmica, algoritmos de grafos e análise de complexidade."
+                        },
+                        "ru": {
+                            "title": "Структуры данных и алгоритмы",
+                            "description": "Расширение понимания массивов, связанных списков, стеков, очередей, деревьев, куч и хэш-таблиц. Практика проектирования алгоритмов для сортировки, поиска и обработки данных с использованием Python и JavaScript, включая рекурсию, динамическое программирование, графовые алгоритмы и анализ сложности."
+                        },
+                        "ua": {
+                            "title": "Структури даних та алгоритми",
+                            "description": "Розширення знань про масиви, зв’язані списки, стеки, черги, дерева, купи та хеш-таблиці. Практика розробки алгоритмів для сортування, пошуку та обробки даних із використанням Python і JavaScript, включаючи рекурсію, динамічне програмування, алгоритми графів та аналіз складності."
+                        },
+                        "he": {
+                            "title": "מבני נתונים ואלגוריתמים",
+                            "description": "הרחבת הבנה של מערכים, רשימות מקושרות, מחסנים, תורים, עצים, ערימות וטבלאות גיבוב. תרגול עיצוב אלגוריתמים למיון, חיפוש ועיבוד נתונים עם Python ו-JavaScript, כולל רקורסיה, תכנות דינמי, אלגוריתמים גרפיים וניתוח מורכבות."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "fallbackFaIconColor": "#f5a623",
+                    "percentage": 25,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning & AI & LLM",
+                            "description": "Implementing infrastructure, features, and bug fixes for ML systems in regional microservice environments. Experimenting with integrating ML models and building applications using Olama, SillyTavernAI, and LLMFarm, including threat detection, phishing analysis, and LLM-based workflows."
+                        },
+                        "ar": {
+                            "title": "التعلم الآلي والذكاء الاصطناعي ونماذج اللغة الكبيرة",
+                            "description": "تنفيذ البنية التحتية والميزات وإصلاح الأخطاء لأنظمة التعلم الآلي في بيئات الميكروسيرفس الإقليمية. تجربة دمج نماذج التعلم الآلي وبناء التطبيقات باستخدام Olama وSillyTavernAI وLLMFarm، بما في ذلك اكتشاف التهديدات، تحليل التصيد الاحتيالي، وسير العمل القائم على LLM."
+                        },
+                        "pt": {
+                            "title": "Aprendizado de Máquina, IA e LLM",
+                            "description": "Implementando infraestrutura, funcionalidades e correções de bugs para sistemas de ML em ambientes de microsserviços regionais. Experimentando integrar modelos de ML e construir aplicações usando Olama, SillyTavernAI e LLMFarm, incluindo detecção de ameaças, análise de phishing e fluxos de trabalho baseados em LLM."
+                        },
+                        "ru": {
+                            "title": "Машинное обучение, ИИ и LLM",
+                            "description": "Реализация инфраструктуры, функций и исправление ошибок для ML-систем в региональных микросервисных средах. Эксперименты с интеграцией моделей ML и разработкой приложений с использованием Olama, SillyTavernAI и LLMFarm, включая обнаружение угроз, анализ фишинга и рабочие процессы на основе LLM."
+                        },
+                        "ua": {
+                            "title": "Машинне навчання, ШІ та LLM",
+                            "description": "Реалізація інфраструктури, функцій та виправлення помилок для ML-систем у регіональних середовищах мікросервісів. Експерименти з інтеграцією моделей ML та створенням додатків за допомогою Olama, SillyTavernAI та LLMFarm, включаючи виявлення загроз, аналіз фішингу та робочі процеси на базі LLM."
+                        },
+                        "he": {
+                            "title": "למידת מכונה, בינה מלאכותית ו-LLM",
+                            "description": "יישום תשתיות, תכונות ותיקוני באגים עבור מערכות ML בסביבות מיקרוסרוויס אזוריות. ניסוי בשילוב מודלים ובניית אפליקציות באמצעות Olama, SillyTavernAI ו-LLMFarm, כולל זיהוי איומים, ניתוח פישינג וזרימות עבודה מבוססות LLM."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-solid fa-layer-group",
+                    "fallbackFaIconColor": "#903dc4",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Backend Skills",
+                            "description": "Continuing to strengthen Python (Flask), Node.js, and database (MongoDB/MySQL) skills. Practicing design of RESTful APIs, microservices, and cloud-deployed applications on AWS, integrating backend systems with frontend components."
+                        },
+                        "ar": {
+                            "title": "مهارات البرمجة الخلفية",
+                            "description": "الاستمرار في تعزيز مهارات Python (Flask) وNode.js وقواعد البيانات (MongoDB/MySQL). ممارسة تصميم واجهات برمجة التطبيقات RESTful والخدمات المصغرة والتطبيقات المنشورة على السحابة في AWS، مع دمج الأنظمة الخلفية مع مكونات الواجهة الأمامية."
+                        },
+                        "pt": {
+                            "title": "Habilidades de Backend",
+                            "description": "Continuando a fortalecer habilidades em Python (Flask), Node.js e banco de dados (MongoDB/MySQL). Praticando design de APIs RESTful, microsserviços e aplicações implantadas na nuvem na AWS, integrando sistemas backend com componentes frontend."
+                        },
+                        "ru": {
+                            "title": "Навыки Backend",
+                            "description": "Продолжаем укреплять навыки работы с Python (Flask), Node.js и базами данных (MongoDB/MySQL). Практика проектирования RESTful API, микросервисов и облачных приложений на AWS с интеграцией бэкенд-систем с фронтенд-компонентами."
+                        },
+                        "ua": {
+                            "title": "Навички Backend",
+                            "description": "Продовження зміцнення навичок Python (Flask), Node.js та баз даних (MongoDB/MySQL). Практика проектування RESTful API, мікросервісів та хмарних додатків на AWS із інтеграцією бекенд-систем із фронтенд-компонентами."
+                        },
+                        "he": {
+                            "title": "כישורי Backend",
+                            "description": "המשך חיזוק כישורי Python (Flask), Node.js ומסדי נתונים (MongoDB/MySQL). תרגול עיצוב RESTful APIs, מיקרו-שירותים ואפליקציות שמופעלות בענן ב-AWS, תוך אינטגרציה בין מערכות Backend לרכיבי Frontend."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": "#42b883",
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "Frontend Development",
+                            "description": "Deepening expertise in building scalable and performant Vue 3 applications using the Composition API, Vuex/Pinia, Nuxt, Vue Router, and Vuetify. Focused on component-based architecture, responsive UI, and advanced API integration techniques."
+                        },
+                        "ar": {
+                            "title": "تطوير الواجهة الأمامية",
+                            "description": "تعميق الخبرة في بناء تطبيقات Vue 3 قابلة للتوسع وعالية الأداء باستخدام Composition API، Vuex/Pinia، Nuxt، Vue Router وVuetify. التركيز على الهندسة المعمارية القائمة على المكونات، واجهة مستخدم استجابة وتقنيات متقدمة لتكامل API."
+                        },
+                        "pt": {
+                            "title": "Desenvolvimento Frontend",
+                            "description": "Aprofundando a expertise na construção de aplicações Vue 3 escaláveis e de alto desempenho usando Composition API, Vuex/Pinia, Nuxt, Vue Router e Vuetify. Foco em arquitetura baseada em componentes, UI responsiva e técnicas avançadas de integração de APIs."
+                        },
+                        "ru": {
+                            "title": "Разработка фронтенда",
+                            "description": "Углубление экспертизы в создании масштабируемых и производительных приложений Vue 3 с использованием Composition API, Vuex/Pinia, Nuxt, Vue Router и Vuetify. Фокус на компонентной архитектуре, адаптивном интерфейсе и продвинутых методах интеграции API."
+                        },
+                        "ua": {
+                            "title": "Розробка фронтенду",
+                            "description": "Поглиблення експертизи у створенні масштабованих і продуктивних додатків Vue 3 з використанням Composition API, Vuex/Pinia, Nuxt, Vue Router та Vuetify. Фокус на компонентній архітектурі, адаптивному UI та просунутих методах інтеграції API."
+                        },
+                        "he": {
+                            "title": "פיתוח Frontend",
+                            "description": "העמקת המומחיות בבניית אפליקציות Vue 3 סקיילביליות ובביצועים גבוהים באמצעות Composition API, Vuex/Pinia, Nuxt, Vue Router ו-Vuetify. ממוקד בארכיטקטורה מבוססת רכיבים, UI רספונסיבי וטכניקות מתקדמות לאינטגרציית API."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-solid fa-terminal",
+                    "fallbackFaIconColor": "#61DBFB",
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "DevOps & Cloud",
+                            "description": "Enhancing skills in containerization and cloud deployments using Docker, Docker Compose, GitLab CI/CD, and AWS services (S3, EC2, IAM) to maintain secure, scalable, and reliable application infrastructure."
+                        },
+                        "ar": {
+                            "title": "DevOps والحوسبة السحابية",
+                            "description": "تعزيز المهارات في الحاويات والنشر السحابي باستخدام Docker وDocker Compose وGitLab CI/CD وخدمات AWS (S3، EC2، IAM) للحفاظ على بنية تحتية للتطبيقات آمنة وقابلة للتوسع وموثوقة."
+                        },
+                        "pt": {
+                            "title": "DevOps & Cloud",
+                            "description": "Aprimorando habilidades em conteinerização e deploys na nuvem usando Docker, Docker Compose, GitLab CI/CD e serviços AWS (S3, EC2, IAM) para manter uma infraestrutura de aplicação segura, escalável e confiável."
+                        },
+                        "ru": {
+                            "title": "DevOps и облако",
+                            "description": "Повышение навыков работы с контейнерами и облачными развертываниями с использованием Docker, Docker Compose, GitLab CI/CD и сервисов AWS (S3, EC2, IAM) для поддержания безопасной, масштабируемой и надежной инфраструктуры приложений."
+                        },
+                        "ua": {
+                            "title": "DevOps та хмара",
+                            "description": "Покращення навичок роботи з контейнерами та хмарними розгортаннями за допомогою Docker, Docker Compose, GitLab CI/CD та сервісів AWS (S3, EC2, IAM) для підтримки безпечної, масштабованої та надійної інфраструктури додатків."
+                        },
+                        "he": {
+                            "title": "DevOps & Cloud",
+                            "description": "שיפור כישורים במכולות והתקנות בענן באמצעות Docker, Docker Compose, GitLab CI/CD ושירותי AWS (S3, EC2, IAM) לשמירה על תשתית אפליקציות מאובטחת, סקיילבילית ואמינה."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                "title": "Personal Projects"
+                },
+                "he": {
+                "title": "פרויקטים אישיים"
+                },
+                "pt": {
+                "title": "Projetos Pessoais"
+                },
+                "ar": {
+                "title": "مشاريع شخصية"
+                },
+                "ru": {
+                "title": "Личные проекты"
+                },
+                "ua": {
+                "title": "Особисті проєкти"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-robot",
+                    "locales": {
+                        "en": {
+                            "title": "AI Digital Archives & Behavioral Analytics",
+                            "description": "Researching the development of a system to analyze archived social media and digital communications, with applications in psychological evaluation, behavioral insights, and long-term data study."
+                        },
+                        "ar": {
+                            "title": "أرشيفات رقمية بالذكاء الاصطناعي وتحليلات سلوكية",
+                            "description": "بحث في تطوير نظام لتحليل وسائل التواصل الاجتماعي المؤرشفة والاتصالات الرقمية، مع تطبيقات في التقييم النفسي، فهم السلوكيات، ودراسة البيانات على المدى الطويل."
+                        },
+                        "pt": {
+                            "title": "Arquivos Digitais de IA & Análise Comportamental",
+                            "description": "Pesquisando o desenvolvimento de um sistema para analisar redes sociais arquivadas e comunicações digitais, com aplicações em avaliação psicológica, insights comportamentais e estudo de dados de longo prazo."
+                        },
+                        "ru": {
+                            "title": "ИИ для цифровых архивов и поведенческой аналитики",
+                            "description": "Исследование разработки системы для анализа архивированных социальных сетей и цифровых коммуникаций с применением в психологической оценке, поведенческих инсайтах и долгосрочном анализе данных."
+                        },
+                        "ua": {
+                            "title": "ШІ-архіви та поведінкова аналітика",
+                            "description": "Дослідження розробки системи для аналізу архівованих соціальних мереж та цифрових комунікацій із застосуванням у психологічній оцінці, поведінкових інсайтах та довгостроковому дослідженні даних."
+                        },
+                        "he": {
+                            "title": "ארכיונים דיגיטליים בבינה מלאכותית וניתוח התנהגותי",
+                            "description": "מחקר בפיתוח מערכת לניתוח רשתות חברתיות ותקשורת דיגיטלית בארכיון, עם יישומים בהערכה פסיכולוגית, תובנות התנהגותיות ולימוד נתונים ארוך טווח."
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-walkie-talkie",
+                    "locales": {
+                        "en": {
+                            "title": "LoRa: Mesh Communication",
+                            "description": "Diving into LoRa mesh network communication experimenting with decentralized communication protocols and real-time data exchange across devices."
+                        },
+                        "ar": {
+                            "title": "اتصالات Mesh باستخدام LoRa",
+                            "description": "استكشاف اتصالات شبكة LoRa Mesh عبر تجربة بروتوكولات اتصال لامركزية وتبادل بيانات في الوقت الفعلي بين الأجهزة."
+                        },
+                        "pt": {
+                            "title": "LoRa: Comunicação em Malha",
+                            "description": "Explorando a comunicação em rede mesh com LoRa, experimentando protocolos de comunicação descentralizados e troca de dados em tempo real entre dispositivos."
+                        },
+                        "ru": {
+                            "title": "LoRa: Сетевые коммуникации Mesh",
+                            "description": "Изучение сетевой связи LoRa Mesh, эксперименты с децентрализованными протоколами и обменом данными в реальном времени между устройствами."
+                        },
+                        "ua": {
+                            "title": "LoRa: Сіткова комунікація",
+                            "description": "Дослідження мережевої комунікації LoRa Mesh, експерименти з децентралізованими протоколами та обміном даними у реальному часі між пристроями."
+                        },
+                        "he": {
+                            "title": "LoRa: תקשורת Mesh",
+                            "description": "חקר תקשורת ברשת Mesh באמצעות LoRa, ניסוי בפרוטוקולי תקשורת מבוזרים והעברת נתונים בזמן אמת בין מכשירים."
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-brands fa-connectdevelop",
+                    "locales": {
+                        "en": {
+                            "title": "Music Technology & Firmware Development",
+                            "description": "Creating merged alternative firmware (Yam and Kaz) for Mutable Instruments Ambika synthesizer. Experimenting with audio hardware programming and signal processing. Developing features for The-Wee-O3, an ionized O2 MiniPop device."
+                        },
+                        "ar": {
+                            "title": "تكنولوجيا الموسيقى وتطوير البرمجيات الثابتة",
+                            "description": "إنشاء برمجيات ثابتة بديلة مدمجة (Yam وKaz) لسينثيسايزر Ambika من Mutable Instruments. تجربة برمجة أجهزة الصوت ومعالجة الإشارات. تطوير ميزات لجهاز The-Wee-O3، وهو جهاز O2 MiniPop مؤين."
+                        },
+                        "pt": {
+                            "title": "Tecnologia Musical & Desenvolvimento de Firmware",
+                            "description": "Criando firmware alternativo combinado (Yam e Kaz) para o sintetizador Ambika da Mutable Instruments. Experimentando programação de hardware de áudio e processamento de sinais. Desenvolvendo recursos para o The-Wee-O3, um dispositivo O2 MiniPop ionizado."
+                        },
+                        "ru": {
+                            "title": "Музыкальные технологии и разработка прошивок",
+                            "description": "Создание объединённой альтернативной прошивки (Yam и Kaz) для синтезатора Ambika от Mutable Instruments. Эксперименты с программированием аудиооборудования и обработкой сигналов. Разработка функций для The-Wee-O3, ионизированного устройства O2 MiniPop."
+                        },
+                        "ua": {
+                            "title": "Музична технологія та розробка прошивки",
+                            "description": "Створення об’єднаної альтернативної прошивки (Yam і Kaz) для синтезатора Ambika від Mutable Instruments. Експерименти з програмуванням аудіообладнання та обробкою сигналів. Розробка функцій для The-Wee-O3, іонізованого пристрою O2 MiniPop."
+                        },
+                        "he": {
+                            "title": "טכנולוגיית מוזיקה ופיתוח קושחה",
+                            "description": "יצירת קושחה חלופית משולבת (Yam ו-Kaz) עבור הסינתיסייזר Ambika של Mutable Instruments. ניסוי בתכנות חומרת שמע ועיבוד אותות. פיתוח תכונות עבור The-Wee-O3, מכשיר O2 MiniPop מיונן."
+                        }
+                    },
+                    "links": []
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-brands fa-raspberry-pi",
+                    "locales": {
+                        "en": {
+                            "title": "Raspberry Pi & Embedded Systems",
+                            "description": "Exploring various Raspberry Pi builds and bare-metal applications. Experimenting with low-level programming, hardware interfacing, and custom OS deployment for embedded and IoT projects."
+                        },
+                        "ar": {
+                            "title": "راسبيري باي والأنظمة المدمجة",
+                            "description": "استكشاف مشاريع مختلفة باستخدام Raspberry Pi وتطبيقات Bare-Metal. تجربة البرمجة منخفضة المستوى، واجهات الأجهزة، ونشر أنظمة تشغيل مخصصة للمشاريع المدمجة وIoT."
+                        },
+                        "pt": {
+                            "title": "Raspberry Pi & Sistemas Embarcados",
+                            "description": "Explorando diversas implementações com Raspberry Pi e aplicações bare-metal. Experimentando programação de baixo nível, interfaceamento de hardware e implantação de sistemas operacionais customizados para projetos embarcados e IoT."
+                        },
+                        "ru": {
+                            "title": "Raspberry Pi и встроенные системы",
+                            "description": "Исследование различных проектов Raspberry Pi и bare-metal приложений. Эксперименты с низкоуровневым программированием, взаимодействием с оборудованием и развертыванием пользовательских ОС для встроенных и IoT-проектов."
+                        },
+                        "ua": {
+                            "title": "Raspberry Pi та вбудовані системи",
+                            "description": "Дослідження різних збірок Raspberry Pi та bare-metal застосунків. Експерименти з низькорівневим програмуванням, апаратними інтерфейсами та розгортанням власних ОС для вбудованих та IoT-проєктів."
+                        },
+                        "he": {
+                            "title": "Raspberry Pi ומערכות משובצות",
+                            "description": "חקר מגוון פרויקטים עם Raspberry Pi ויישומי Bare-Metal. ניסוי בתכנות ברמה נמוכה, אינטגרציה עם חומרה ופריסת מערכות הפעלה מותאמות אישית לפרויקטים משובצים ו-IoT."
+                        }
+                    },
+                    "links": []
+                }
+            ]
+        }
+    ]
+}

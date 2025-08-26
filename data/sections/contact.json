@@ -1,0 +1,102 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "locales": {
+                "en": {
+                    "contact_thank_you": "*Thanks* for the contact!",
+                    "contact_thank_you_description": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_reply": "The reply will be sent to your email address *{email}*."
+                },
+                "he": {
+                    "contact_thank_you": "*תודה* על יצירת הקשר!",
+                    "contact_thank_you_description": "ההודעה שלך התקבלה, ואני אצור איתך קשר בקרוב. אני מעריך את זמנך ומצפה להתחבר אליך!",
+                    "contact_thank_you_reply": "התשובה תישלח לכתובת האימייל שלך *{email}*."
+                },
+                "pt": {
+                    "contact_thank_you": "*Obrigado* pelo contato!",
+                    "contact_thank_you_description": "Sua mensagem foi recebida e em breve entrarei em contato com você. Agradeço pelo seu tempo e espero poder me conectar com você!",
+                    "contact_thank_you_reply": "A resposta será enviada para o seu endereço de e-mail *{email}*."
+                },
+                "ru": {
+                    "contact_thank_you": "*Спасибо* за обращение!",
+                    "contact_thank_you_description": "Ваше сообщение получено, и я скоро свяжусь с вами. Я ценю ваше время и с нетерпением жду возможности пообщаться с вами!",
+                    "contact_thank_you_reply": "Ответ будет отправлен на ваш адрес электронной почты *{email}*."
+                },
+                "ua": {
+                    "contact_thank_you": "*Дякую* за звернення!",
+                    "contact_thank_you_description": "Ваше повідомлення отримано, і я скоро з вами зв’яжусь. Я ціную ваш час і з нетерпінням чекаю на спілкування з вами!",
+                    "contact_thank_you_reply": "Відповідь буде надіслана на вашу адресу електронної пошти *{email}*."
+                },
+                "ar": {
+                    "contact_thank_you": "*شكراً* على تواصلك!",
+                    "contact_thank_you_description": "تم استلام رسالتك، وسأتواصل معك قريباً. أقدّر وقتك وأتطلع للتواصل معك!",
+                    "contact_thank_you_reply": "سيتم إرسال الرد إلى عنوان بريدك الإلكتروني *{email}*."
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": [
+                    "address",
+                    "phone",
+                    "email",
+                    "linkedin",
+                    "facebook",
+                    "github"
+                ],
+                "contact_js_public_key": "HTZBW8gbNHKTygn5Z",
+                "contact_js_service_id": "service_mfvvvj9",
+                "contact_js_template_id": "template_9f9768h"
+            },
+            "items": null
+        },
+        {
+            "id": 2,
+            "component": "ArticleContactOptions",
+            "locales": {
+                "en": {
+                    "title": "Or...",
+                    "description": "If you prefer, you can reach out to me through the following options:"
+                },
+                "he": {
+                    "title": "או...",
+                    "description": "אם תרצה, תוכל ליצור איתי קשר גם באמצעות האפשרויות הבאות:"
+                },
+                "pt": {
+                    "title": "Ou...",
+                    "description": "Se preferir, você pode entrar em contato comigo pelas seguintes opções:"
+                },
+                "ru": {
+                    "title": "Или...",
+                    "description": "Если хотите, вы можете связаться со мной с помощью следующих вариантов:"
+                },
+                "ua": {
+                    "title": "Або...",
+                    "description": "Якщо бажаєте, ви можете зв’язатися зі мною за допомогою таких варіантів:"
+                },
+                "ar": {
+                    "title": "أو...",
+                    "description": "إذا أردت، يمكنك التواصل معي من خلال الخيارات التالية:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "contact_ids": [
+                    "address",
+                    "phone",
+                    "email",
+                    "linkedin",
+                    "facebook",
+                    "github"
+                ],
+                "contact_js_public_key": "HTZBW8gbNHKTygn5Z",
+                "contact_js_service_id": "service_mfvvvj9",
+                "contact_js_template_id": "template_9f9768h"
+            },
+            "items": null
+        }
+    ]
+}
