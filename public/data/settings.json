@@ -1,0 +1,42 @@
+{
+    "preloaderEnabled": true,
+    "navToggleEnabled": true,
+    "supportedLanguages": [
+        {
+            "name": "Arabic",
+            "id": "ar",
+            "flagUrl": "images/flags/ar.png",
+            "default": true
+        },
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/us.png",
+            "default": true
+        },
+        {
+            "name": "Hebrew",
+            "id": "he",
+            "flagUrl": "images/flags/is.png",
+            "default": true
+        },
+        {
+            "name": "Portuguese",
+            "id": "pt",
+            "flagUrl": "images/flags/br.png",
+            "default": true
+        },
+        {
+            "name": "Russian",
+            "id": "ru",
+            "flagUrl": "images/flags/ru.png",
+            "default": true
+        },
+        {
+            "name": "Ukrainian",
+            "id": "ua",
+            "flagUrl": "images/flags/ua.png",
+            "default": true
+        }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/about.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Hey! :) I am Anthony!",
+                    "title_short": "Welcome! :)",
+                    "description": "About",
+                    "nav_label": "About"
+                },
+                "he": {
+                    "title": "היי! :) אני אנתוני!",
+                    "title_short": "ברוך הבא! :)",
+                    "description": "אודות",
+                    "nav_label": "אודות"
+                },
+                "pt": {
+                    "title": "Oi! :) Eu sou o Anthony!",
+                    "title_short": "Bem-vindo! :)",
+                    "description": "Sobre",
+                    "nav_label": "Sobre"
+                },
+                "ru": {
+                    "title": "Привет! :) Я Энтони!",
+                    "title_short": "Добро пожаловать! :)",
+                    "description": "Обо мне",
+                    "nav_label": "Обо мне"
+                },
+                "ua": {
+                    "title": "Привіт! :) Я Ентоні!",
+                    "title_short": "Ласкаво просимо! :)",
+                    "description": "Про мене",
+                    "nav_label": "Про мене"
+                },
+                "ar": {
+                    "title": "مرحباً! :) أنا أنطوني!",
+                    "title_short": "أهلاً وسهلاً! :)",
+                    "description": "عنّي",
+                    "nav_label": "عنّي"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Experience",
+                    "title_short": "Experience",
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "he": {
+                    "title": "ניסיון",
+                    "title_short": "ניסיון",
+                    "description": "מבט על הניסיון התעסוקתי שלי והקריירה שלי.",
+                    "nav_label": "ניסיון"
+                },
+                "pt": {
+                    "title": "Experiência",
+                    "title_short": "Experiência",
+                    "description": "Um olhar sobre minha experiência profissional e trajetória de carreira.",
+                    "nav_label": "Experiência"
+                },
+                "ru": {
+                    "title": "Опыт",
+                    "title_short": "Опыт",
+                    "description": "Взгляд на мой профессиональный опыт и карьерный путь.",
+                    "nav_label": "Опыт"
+                },
+                "ua": {
+                    "title": "Досвід",
+                    "title_short": "Досвід",
+                    "description": "Погляд на мій професійний досвід і кар’єрний шлях.",
+                    "nav_label": "Досвід"
+                },
+                "ar": {
+                    "title": "الخبرة",
+                    "title_short": "الخبرة",
+                    "description": "نظرة على خبرتي العملية ورحلتي المهنية.",
+                    "nav_label": "الخبرة"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Skills",
+                    "title_short": "Skills",
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "he": {
+                    "title": "כישורים",
+                    "title_short": "כישורים",
+                    "description": "חקירה של מגוון הכישורים שרכשתי ופיתחתי:",
+                    "nav_label": "כישורים"
+                },
+                "pt": {
+                    "title": "Habilidades",
+                    "title_short": "Habilidades",
+                    "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:",
+                    "nav_label": "Habilidades"
+                },
+                "ru": {
+                    "title": "Навыки",
+                    "title_short": "Навыки",
+                    "description": "Изучение разнообразных навыков, которые я приобрел и развил:",
+                    "nav_label": "Навыки"
+                },
+                "ua": {
+                    "title": "Навички",
+                    "title_short": "Навички",
+                    "description": "Дослідження різноманітних навичок, які я здобув і розвинув:",
+                    "nav_label": "Навички"
+                },
+                "ar": {
+                    "title": "المهارات",
+                    "title_short": "المهارات",
+                    "description": "استكشاف مجموعة متنوعة من المهارات التي اكتسبتها وطوّرتها:",
+                    "nav_label": "المهارات"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "education & Courses",
+                    "title_short": "Education",
+                    "description": "A glimpse into my academic trajectory and accomplishments",
+                    "nav_label": "Education"
+                },
+                "he": {
+                    "title": "השכלה",
+                    "title_short": "השכלה",
+                    "description": "הצצה למסלול האקדמי שלי ולהישגים שלי",
+                    "nav_label": "השכלה"
+                },
+                "pt": {
+                    "title": "Educação",
+                    "title_short": "Educação",
+                    "description": "Um vislumbre da minha trajetória acadêmica e conquistas",
+                    "nav_label": "Educação"
+                },
+                "ru": {
+                    "title": "Образование и курсы",
+                    "title_short": "Образование",
+                    "description": "Взгляд на мой академический путь и достижения",
+                    "nav_label": "Образование"
+                },
+                "ua": {
+                    "title": "Освіта та курси",
+                    "title_short": "Освіта",
+                    "description": "Погляд на мою академічну траєкторію та досягнення",
+                    "nav_label": "Освіта"
+                },
+                "ar": {
+                    "title": "التعليم والدورات",
+                    "title_short": "التعليم",
+                    "description": "لمحة عن مسيرتي الأكاديمية وإنجازاتي",
+                    "nav_label": "التعليم"
+                }
+            }
+        },
+        {
+            "id": "Updates",
+            "categoryId": "more",
+            "jsonPath": "/sections/updates.json",
+            "faIcon": "fa-solid fa-medal",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Projects & Updates",
+                    "title_short": "Here's a list of certifications I've got recently:",
+                    "description": null,
+                    "nav_label": "Projects & Updates"
+                },
+                "he": {
+                    "title": "עדכונים",
+                    "title_short": "רשימת התעודות שקיבלתי לאחרונה:",
+                    "description": null,
+                    "nav_label": "עדכונים"
+                },
+                "pt": {
+                    "title": "Atualizações",
+                    "title_short": "Aqui está uma lista de certificações que obtive recentemente:",
+                    "description": null,
+                    "nav_label": "Atualizações"
+                },
+                "ru": {
+                    "title": "Проекты и обновления",
+                    "title_short": "Вот список сертификатов, которые я получил недавно:",
+                    "description": null,
+                    "nav_label": "Проекты и обновления"
+                },
+                "ua": {
+                    "title": "Проєкти та оновлення",
+                    "title_short": "Ось список сертифікатів, які я отримав нещодавно:",
+                    "description": null,
+                    "nav_label": "Проєкти та оновлення"
+                },
+                "ar": {
+                    "title": "المشاريع والتحديثات",
+                    "title_short": "إليك قائمة بالشهادات التي حصلت عليها مؤخراً:",
+                    "description": null,
+                    "nav_label": "المشاريع والتحديثات"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Contact",
+                    "title_short": "Contact",
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need.",
+                    "nav_label": "Contact"
+                },
+                "he": {
+                    "title": "צור קשר",
+                    "title_short": "צור קשר",
+                    "description": "אל תהסס ליצור איתי קשר בכל עת שתרגיש צורך.",
+                    "nav_label": "צור קשר"
+                },
+                "pt": {
+                    "title": "Contato",
+                    "title_short": "Contato",
+                    "description": "Não hesite em entrar em contato comigo sempre que sentir necessidade.",
+                    "nav_label": "Contato"
+                },
+                "ru": {
+                    "title": "Контакты",
+                    "title_short": "Контакты",
+                    "description": "Не стесняйтесь связаться со мной в любое время, когда почувствуете необходимость.",
+                    "nav_label": "Контакты"
+                },
+                "ua": {
+                    "title": "Контакт",
+                    "title_short": "Контакт",
+                    "description": "Не соромтеся зв’язатися зі мною будь-коли, коли відчуєте потребу.",
+                    "nav_label": "Контакт"
+                },
+                "ar": {
+                    "title": "اتصل بي",
+                    "title_short": "اتصل",
+                    "description": "لا تتردد في التواصل معي في أي وقت تشعر فيه بالحاجة.",
+                    "nav_label": "اتصل"
+                }
+            }
+        }
+    ]
+}

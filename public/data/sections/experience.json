@@ -1,0 +1,492 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2019,
+                        "month": 11
+                    },
+                    "dateEnd": {
+                        "year": 2024,
+                        "month": 1
+                    },
+                    "img": "images/pictures/ibm.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "#003087",
+                    "locales": {
+                        "en": {
+                            "title": "Full-Stack Developer",
+                            "description": "Designed and maintained end-to-end applications focused on cybersecurity and data analytics using Python, Vue.js, Angular, and Flask; developed and optimized features for a distributed machine learning system processing phishing URLs; built RESTful APIs supporting scalable threat detection systems; deployed Docker-based microservices on AWS with S3 storage; wrote server-side Python logic for AI-driven threat analysis; resolved GitLab CI/CD pipeline issues; troubleshot critical production problems; migrated legacy code and improved architecture; containerized frontend and backend features with Docker; implemented unit tests with Jest and Pytest, occasionally using TDD to enhance reliability.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        },
+                        "he": {
+                            "title": "מפתח Full-Stack",
+                            "description": "תכננתי ותחזקתי אפליקציות מקצה לקצה עם דגש על אבטחת סייבר וניתוח נתונים באמצעות Python, Vue.js, Angular ו-Flask; פיתחתי ואופטימיזתי תכונות למערכת למידת מכונה מבוזרת שמטפלת ב-URLs של פישינג; בניתי RESTful APIs לתמיכה במערכות גילוי איומים מדרגיות; פרסמתי מיקרו-שירותים מבוססי Docker על AWS עם אחסון ב-S3; כתבתי לוגיקה בצד השרת לניתוח איומים מונע AI; פתרתי בעיות בצינורות CI/CD ב-GitLab; איתרתי בעיות קריטיות בפרודקשן; עדכנתי קוד ישן ושיפרתי ארכיטקטורה; הקונטיינרתי תכונות frontend ו-backend עם Docker; יישמתי בדיקות יחידה באמצעות Jest ו-Pytest, כולל שימוש ב-TDD לשיפור אמינות.",
+                            "list": null,
+                            "province": "גבעתיים",
+                            "country": "ישראל",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Desenvolvedor Full-Stack",
+                            "description": "Projetei e mantive aplicações de ponta a ponta focadas em cibersegurança e análise de dados usando Python, Vue.js, Angular e Flask; desenvolvi e otimizei recursos para um sistema distribuído de machine learning que processa URLs de phishing; construí APIs RESTful suportando sistemas escaláveis de detecção de ameaças; implementei microserviços Docker na AWS com armazenamento S3; escrevi lógica de servidor em Python para análise de ameaças baseada em IA; resolvi problemas em pipelines GitLab CI/CD; solucionei problemas críticos de produção; migrei código legado e melhorei a arquitetura; containerizei funcionalidades frontend e backend com Docker; implementei testes unitários com Jest e Pytest, ocasionalmente usando TDD para aumentar a confiabilidade.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        },
+                        "ar": {
+                            "title": "مطور Full-Stack",
+                            "description": "قمت بتصميم وصيانة تطبيقات متكاملة تركز على الأمن السيبراني وتحليل البيانات باستخدام Python وVue.js وAngular وFlask؛ طورت وحسّنت ميزات لنظام تعلم آلي موزع يعالج روابط التصيد الاحتيالي؛ أنشأت واجهات RESTful تدعم أنظمة كشف التهديدات القابلة للتوسع؛ نشرت خدمات مصغرة قائمة على Docker على AWS مع تخزين S3؛ كتبت منطق Python على جانب الخادم لتحليل التهديدات المدعوم بالذكاء الاصطناعي؛ حللت مشكلات في خطوط GitLab CI/CD؛ عالجت مشاكل إنتاج حرجة؛ قمت بترحيل كود قديم وتحسين البنية؛ وضعت ميزات الواجهة الأمامية والخلفية في حاويات باستخدام Docker؛ نفذت اختبارات وحدات باستخدام Jest وPytest، وأحيانًا باستخدام TDD لتعزيز الموثوقية.",
+                            "list": null,
+                            "province": "غفعتايم",
+                            "country": "إسرائيل",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        },
+                        "ru": {
+                            "title": "Full-Stack разработчик",
+                            "description": "Разрабатывал и поддерживал сквозные приложения, ориентированные на кибербезопасность и анализ данных, с использованием Python, Vue.js, Angular и Flask; создавал и оптимизировал функции для распределённой системы машинного обучения, обрабатывающей фишинговые URL; строил RESTful API для масштабируемых систем обнаружения угроз; разворачивал микросервисы на базе Docker в AWS с хранилищем S3; писал серверную логику на Python для анализа угроз с использованием ИИ; решал проблемы в пайплайнах GitLab CI/CD; устранял критические проблемы в продакшне; мигрировал устаревший код и улучшал архитектуру; контейнеризировал frontend и backend с Docker; внедрял модульные тесты с Jest и Pytest, иногда используя TDD для повышения надёжности.",
+                            "list": null,
+                            "province": "Гиватаим",
+                            "country": "Израиль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        },
+                        "ua": {
+                            "title": "Full-Stack розробник",
+                            "description": "Розробляв і підтримував наскрізні застосунки з акцентом на кібербезпеку та аналітику даних, використовуючи Python, Vue.js, Angular і Flask; створював і оптимізував функції для розподіленої системи машинного навчання, що обробляла фішингові URL; будував RESTful API для масштабованих систем виявлення загроз; розгортав мікросервіси на базі Docker в AWS зі сховищем S3; писав серверну логіку на Python для аналізу загроз за допомогою ШІ; усував проблеми у пайплайнах GitLab CI/CD; вирішував критичні проблеми у продакшні; мігрував застарілий код і вдосконалював архітектуру; контейнеризував frontend та backend із Docker; впроваджував модульні тести з Jest і Pytest, іноді використовуючи TDD для підвищення надійності.",
+                            "list": null,
+                            "province": "Гіватаїм",
+                            "country": "Ізраїль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Angular",
+                                "Node.js",
+                                "Docker",
+                                "vue3",
+                                "Amazon Web Services (AWS)",
+                                "MongoDB",
+                                "MySQL",
+                                "MySQL"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2017,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2019,
+                        "month": 11
+                    },
+                    "img": "images/pictures/ibm.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "#DB4437",
+                    "locales": {
+                        "en": {
+                            "title": "QA Automation Engineer – Web",
+                            "description": "As an Automation Security QA Engineer, I was responsible for testing IBM Trusteer MD, a malware detection and JavaScript injection monitoring platform that acts as a honeypot to identify and analyze malicious activity. I designed and maintained Python automation frameworks to streamline testing across systems, ensuring consistent coverage and reliability. My work included coordinating global software releases, managing staggered rollouts to guarantee secure and seamless deployments worldwide. Additionally, I conducted malware analysis and introductory reverse engineering, using specialized tools to investigate threat behavior, understand attack vectors, and inform testing strategies, enhancing the security posture of the applications under review.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "QA Automation",
+                                "Malware Detection Testing",
+                                "JavaScript injection detection",
+                                "Web Malware Simulation",
+                                "Malware Behavior Analysis",
+                                "Real-time alerting",
+                                "risk analysis",
+                                "Exploit Detection Testing"
+                            ]
+                        },
+                        "he": {
+                            "title": "מהנדס אוטומציה QA – Web",
+                            "description": "כמהנדס QA אבטחת מידע אוטומציה, הייתי אחראי על בדיקות IBM Trusteer MD, פלטפורמת זיהוי תוכנות זדוניות ומעקב אחר הזרקת JavaScript הפועלת כ-honeypot לזיהוי וניתוח פעילות זדונית. תכננתי ותחזקתי מסגרות אוטומציה בפייתון לייעול בדיקות במערכות שונות, תוך הבטחת כיסוי ואמינות עקבית. עבודתי כללה תיאום הפצות תוכנה עולמיות וניהול פריסות מדורגות להבטחת פריסות מאובטחות וחלקות ברחבי העולם. בנוסף, ביצעתי ניתוח תוכנות זדוניות והנדסה הפוכה ראשונית, תוך שימוש בכלים מיוחדים לחקירת התנהגות איומים, הבנת וקטורי התקפה והכוונת אסטרטגיות בדיקה, לשיפור אבטחת היישומים הנבדקים.",
+                            "list": null,
+                            "province": "גבעתיים",
+                            "country": "ישראל",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "QA אוטומציה",
+                                "בדיקות זיהוי תוכנות זדוניות",
+                                "זיהוי הזרקת JavaScript",
+                                "סימולציית תוכנות זדוניות Web",
+                                "ניתוח התנהגות תוכנות זדוניות",
+                                "התראות בזמן אמת",
+                                "ניתוח סיכונים",
+                                "בדיקות זיהוי Exploit"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Engenheiro de Automação QA – Web",
+                            "description": "Como Engenheiro de Automação QA em Segurança, fui responsável por testar o IBM Trusteer MD, uma plataforma de detecção de malware e monitoramento de injeção JavaScript que atua como honeypot para identificar e analisar atividades maliciosas. Projetei e mantive frameworks de automação em Python para agilizar os testes em diversos sistemas, garantindo cobertura e confiabilidade consistentes. Meu trabalho incluiu coordenação de lançamentos globais de software e gerenciamento de implantações graduais para assegurar lançamentos seguros e contínuos em todo o mundo. Além disso, realizei análise de malware e engenharia reversa introdutória, utilizando ferramentas especializadas para investigar o comportamento de ameaças, compreender vetores de ataque e orientar estratégias de teste, melhorando a postura de segurança das aplicações avaliadas.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "Automação QA",
+                                "Testes de Detecção de Malware",
+                                "Detecção de injeção JavaScript",
+                                "Simulação de Malware Web",
+                                "Análise de Comportamento de Malware",
+                                "Alertas em Tempo Real",
+                                "Análise de Riscos",
+                                "Testes de Detecção de Exploits"
+                            ]
+                        },
+                        "ar": {
+                            "title": "مهندس أتمتة QA – الويب",
+                            "description": "بصفتي مهندس ضمان جودة أمني للأتمتة، كنت مسؤولًا عن اختبار IBM Trusteer MD، وهي منصة لاكتشاف البرمجيات الخبيثة ومراقبة حقن JavaScript تعمل كفخ عسل لتحديد وتحليل الأنشطة الضارة. صممت وحافظت على أطر أتمتة بلغة Python لتبسيط الاختبارات عبر الأنظمة، مع ضمان التغطية والموثوقية المستمرة. شمل عملي تنسيق إصدارات البرمجيات العالمية وإدارة عمليات النشر المرحلية لضمان عمليات نشر آمنة وسلسة في جميع أنحاء العالم. بالإضافة إلى ذلك، أجريت تحليلاً للبرمجيات الخبيثة وهندسة عكسية أولية باستخدام أدوات متخصصة للتحقيق في سلوك التهديدات وفهم متجهات الهجوم وتوجيه استراتيجيات الاختبار، مما عزز الوضع الأمني للتطبيقات قيد المراجعة.",
+                            "list": null,
+                            "province": "غفعتايم",
+                            "country": "إسرائيل",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "أتمتة QA",
+                                "اختبار كشف البرمجيات الخبيثة",
+                                "اكتشاف حقن JavaScript",
+                                "محاكاة برمجيات خبيثة للويب",
+                                "تحليل سلوك البرمجيات الخبيثة",
+                                "تنبيه فوري",
+                                "تحليل المخاطر",
+                                "اختبارات كشف الاستغلال"
+                            ]
+                        },
+                        "ru": {
+                            "title": "Инженер по автоматизации QA – Web",
+                            "description": "В роли инженера по автоматизации QA для обеспечения безопасности я отвечал за тестирование IBM Trusteer MD — платформы для обнаружения вредоносного ПО и мониторинга внедрения JavaScript, которая работает как honeypot для выявления и анализа вредоносной активности. Я разрабатывал и поддерживал Python-фреймворки для автоматизации тестирования, что упрощало процессы и обеспечивало стабильное покрытие и надёжность. В мои обязанности входила координация глобальных релизов ПО, управление поэтапными развёртываниями для безопасного и беспроблемного внедрения по всему миру. Дополнительно я проводил анализ вредоносного ПО и базовую реверс-инжиниринговую работу, используя специализированные инструменты для изучения поведения угроз, понимания векторов атак и разработки стратегий тестирования, улучшая уровень безопасности анализируемых приложений.",
+                            "list": null,
+                            "province": "Гиватаим",
+                            "country": "Израиль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "QA автоматизация",
+                                "Тестирование обнаружения вредоносного ПО",
+                                "Обнаружение внедрения JavaScript",
+                                "Симуляция вредоносного ПО для Web",
+                                "Анализ поведения вредоносного ПО",
+                                "Оповещение в реальном времени",
+                                "Анализ рисков",
+                                "Тестирование обнаружения эксплойтов"
+                            ]
+                        },
+                        "ua": {
+                            "title": "Інженер QA з автоматизації – Web",
+                            "description": "Як інженер з автоматизації QA у сфері безпеки, я відповідав за тестування IBM Trusteer MD — платформи для виявлення шкідливого ПЗ та моніторингу інʼєкцій JavaScript, яка працює як honeypot для ідентифікації та аналізу зловмисної активності. Я проєктував і підтримував фреймворки автоматизації на Python для оптимізації тестування на різних системах, забезпечуючи стабільне покриття та надійність. Моя робота включала координацію глобальних релізів програмного забезпечення та керування поступовими розгортаннями, щоб гарантувати безпечні та безперервні впровадження по всьому світу. Крім того, я проводив аналіз шкідливого ПЗ та базову реверс-інженерію, використовуючи спеціалізовані інструменти для дослідження поведінки загроз, розуміння векторів атак та формування стратегій тестування, посилюючи безпеку додатків під перевіркою.",
+                            "list": null,
+                            "province": "Гіватаїм",
+                            "country": "Ізраїль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Python",
+                                "QA автоматизація",
+                                "Тестування виявлення шкідливого ПЗ",
+                                "Виявлення інʼєкцій JavaScript",
+                                "Симуляція шкідливого ПЗ Web",
+                                "Аналіз поведінки шкідливого ПЗ",
+                                "Сповіщення в реальному часі",
+                                "Аналіз ризиків",
+                                "Тестування виявлення експлойтів"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2016,
+                        "month": 9
+                    },
+                    "dateEnd": {
+                        "year": 2017,
+                        "month": 9
+                    },
+                    "img": "images/pictures/ibm.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "#1877F2",
+                    "locales": {
+                        "en": {
+                            "title": "QA Engineer - Endpoint & Mobile",
+                            "description": "Developed and executed comprehensive test plans covering performance, sanity, and functionality for security software; performed live malware testing and maintained VMware virtual machines across multiple OS platforms; documented testing methodologies, system configurations, and security signature validation procedures, creating detailed reports for development and security teams; collaborated with malware researchers and reverse engineering teams to resolve critical security issues and enhance overall product security.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Malware Analysis",
+                                "Live Sample Malware testing",
+                                "VMware vSphere",
+                                "Documentation",
+                                "QA Automation",
+                                "Risk Analysis",
+                                "Selenium"
+                            ]
+                        },
+                        "he": {
+                            "title": "מהנדס QA - Endpoint & Mobile",
+                            "description": "פיתחתי וביצעתי תכניות בדיקה מקיפות הכוללות בדיקות ביצועים, בדיקות תקינות ופונקציונליות עבור תוכנות אבטחה; ביצעתי בדיקות תוכנות זדוניות בזמן אמת ותחזקתי מכונות וירטואליות VMware על פני מספר מערכות הפעלה; תיעדתי שיטות בדיקה, קונפיגורציות מערכת והליך אימות חתימות אבטחה, ויצרתי דוחות מפורטים לצוותי פיתוח ואבטחה; שיתפתי פעולה עם חוקרי תוכנות זדוניות וצוותי רוורס אנג'ינירינג כדי לפתור בעיות אבטחה קריטיות ולשפר את אבטחת המוצר הכוללת.",
+                            "list": null,
+                            "province": "גבעתיים",
+                            "country": "ישראל",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "ניתוח תוכנות זדוניות",
+                                "בדיקות Malware בזמן אמת",
+                                "VMware vSphere",
+                                "תיעוד",
+                                "QA אוטומציה",
+                                "ניתוח סיכונים",
+                                "Selenium"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Engenheiro de QA - Endpoint & Mobile",
+                            "description": "Desenvolvi e executei planos de teste abrangentes cobrindo desempenho, funcionalidade e sanidade para softwares de segurança; realizei testes com malware em tempo real e mantive máquinas virtuais VMware em múltiplas plataformas; documentei metodologias de teste, configurações de sistema e procedimentos de validação de assinaturas de segurança, criando relatórios detalhados para as equipes de desenvolvimento e segurança; colaborei com pesquisadores de malware e equipes de engenharia reversa para resolver problemas críticos de segurança e melhorar a segurança geral do produto.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Análise de Malware",
+                                "Testes de Malware em tempo real",
+                                "VMware vSphere",
+                                "Documentação",
+                                "Automação QA",
+                                "Análise de Risco",
+                                "Selenium"
+                            ]
+                        },
+                        "ar": {
+                            "title": "مهندس ضمان الجودة - الحواسيب الطرفية والهواتف المحمولة",
+                            "description": "طورت ونفذت خطط اختبار شاملة تغطي الأداء، والفحص الأساسي، والوظائف لبرامج الأمان؛ أجريت اختبارات برمجيات خبيثة حية وقمت بصيانة الأجهزة الافتراضية VMware عبر أنظمة تشغيل متعددة؛ وثقت منهجيات الاختبار، تكوينات النظام، وإجراءات التحقق من تواقيع الأمان، وأنشأت تقارير مفصلة لفرق التطوير والأمن؛ تعاونت مع باحثي البرمجيات الخبيثة وفرق الهندسة العكسية لمعالجة مشكلات الأمان الحرجة وتعزيز أمان المنتج العام.",
+                            "list": null,
+                            "province": "جفعتايم",
+                            "country": "إسرائيل",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "تحليل البرمجيات الخبيثة",
+                                "اختبار البرمجيات الخبيثة الحية",
+                                "VMware vSphere",
+                                "توثيق",
+                                "أتمتة QA",
+                                "تحليل المخاطر",
+                                "Selenium"
+                            ]
+                        },
+                        "ru": {
+                            "title": "Инженер по QA - Endpoint и Mobile",
+                            "description": "Разрабатывал и выполнял комплексные планы тестирования, охватывающие производительность, стабильность и функциональность программного обеспечения безопасности; проводил тестирование вредоносного ПО в реальном времени и обслуживал виртуальные машины VMware на разных ОС; документировал методологии тестирования, конфигурации систем и процедуры проверки сигнатур безопасности, создавая подробные отчеты для команд разработки и безопасности; сотрудничал с исследователями вредоносного ПО и командами реверс-инжиниринга для решения критических проблем безопасности и повышения общей защищенности продукта.",
+                            "list": null,
+                            "province": "Гиватаим",
+                            "country": "Израиль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Анализ вредоносного ПО",
+                                "Тестирование вредоносного ПО",
+                                "VMware vSphere",
+                                "Документация",
+                                "Автоматизация QA",
+                                "Анализ рисков",
+                                "Selenium"
+                            ]
+                        },
+                        "ua": {
+                            "title": "Інженер QA - Endpoint та Mobile",
+                            "description": "Розробляв і виконував комплексні плани тестування, що охоплювали продуктивність, перевірку стабільності та функціональність програм безпеки; проводив тестування шкідливого ПЗ у реальному часі та підтримував віртуальні машини VMware на різних ОС; документував методології тестування, конфігурації систем та процедури перевірки сигнатур безпеки, створюючи детальні звіти для команд розробки та безпеки; співпрацював із дослідниками шкідливого ПЗ та командами реверс-інжинірингу для вирішення критичних проблем безпеки та підвищення загальної стійкості продукту.",
+                            "list": null,
+                            "province": "Гіватайм",
+                            "country": "Ізраїль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "Аналіз шкідливого ПЗ",
+                                "Тестування шкідливого ПЗ",
+                                "VMware vSphere",
+                                "Документація",
+                                "Автоматизація QA",
+                                "Аналіз ризиків",
+                                "Selenium"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {
+                        "year": 2014,
+                        "month": 1
+                    },
+                    "dateEnd": {
+                        "year": 2016,
+                        "month": 9
+                    },
+                    "img": "images/pictures/ibm.png",
+                    "fallbackFaIcon": "",
+                    "fallbackFaIconColor": "#000000",
+                    "locales": {
+                        "en": {
+                            "title": "Phishing Analyst / Support Engineer",
+                            "description": "Provided comprehensive technical support for IBM Trusteer’s cybersecurity products, diagnosing and resolving software issues to minimize client disruption. Assisted with client integration, installation, configuration, and maintenance of security solutions, while delivering training and creating documentation to optimize product use. Collaborated closely with R&D, Security, and Product teams to identify recurring problems, provide actionable feedback, and enhance product reliability. Managed support tickets efficiently to meet SLAs, ensured compliance with data security standards, and supported endpoint and threat analysis, including phishing detection. Streamlined escalation processes and workflows to improve response times and overall customer satisfaction.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        },
+                        "he": {
+                            "title": "אנליסט פישינג / מהנדס תמיכה",
+                            "description": "סיפקתי תמיכה טכנית מקיפה למוצרי אבטחת הסייבר של IBM Trusteer, תוך אבחון ופתרון בעיות תוכנה לצמצום הפגיעה בלקוחות. סייעתי באינטגרציה, התקנה, קונפיגורציה ותחזוקת פתרונות אבטחה, תוך מתן הדרכה ויצירת תיעוד לשימוש מיטבי במוצרים. שיתפתי פעולה עם צוותי פיתוח, אבטחה ומוצר לזיהוי בעיות חוזרות, מתן משוב ישים ושיפור אמינות המוצר. ניהלתי כרטיסי תמיכה בצורה יעילה תוך עמידה ב-SLA, הבטחת תאימות לסטנדרטים של אבטחת מידע, ותמכתי בניתוח נקודות קצה ואיומים, כולל זיהוי פישינג. ייעלתי תהליכי הסלמה וזרימות עבודה לשיפור זמן תגובה ושביעות רצון כללית של הלקוחות.",
+                            "list": null,
+                            "province": "גבעתיים",
+                            "country": "ישראל",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        },
+                        "pt": {
+                            "title": "Analista de Phishing / Engenheiro de Suporte",
+                            "description": "Forneci suporte técnico abrangente para os produtos de cibersegurança da IBM Trusteer, diagnosticando e resolvendo problemas de software para minimizar o impacto nos clientes. Auxiliei na integração, instalação, configuração e manutenção das soluções de segurança, oferecendo treinamentos e criando documentação para otimizar o uso dos produtos. Colaborei estreitamente com equipes de P&D, Segurança e Produto para identificar problemas recorrentes, fornecer feedback acionável e melhorar a confiabilidade do produto. Gerenciei tickets de suporte de forma eficiente para cumprir SLAs, assegurei conformidade com os padrões de segurança de dados e apoiei a análise de endpoints e ameaças, incluindo detecção de phishing. Otimizei processos de escalonamento e fluxos de trabalho para melhorar o tempo de resposta e a satisfação geral do cliente.",
+                            "list": null,
+                            "province": "Givatayim",
+                            "country": "Israel",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        },
+                        "ar": {
+                            "title": "محلل تصيد احتيالي / مهندس دعم",
+                            "description": "قدمت دعماً فنياً شاملاً لمنتجات IBM Trusteer للأمن السيبراني، قمت بتشخيص وحل مشكلات البرمجيات لتقليل تعطيل العملاء. ساعدت في التكامل، التثبيت، التهيئة وصيانة حلول الأمان، مع تقديم التدريب وإنشاء الوثائق لتحسين استخدام المنتج. تعاونت بشكل وثيق مع فرق البحث والتطوير، الأمن، والمنتج لتحديد المشكلات المتكررة، وتقديم ملاحظات قابلة للتنفيذ، وتحسين موثوقية المنتج. أدرت تذاكر الدعم بكفاءة للوفاء باتفاقيات SLA، ضمنت الامتثال لمعايير أمان البيانات، ودعمت تحليل النقاط الطرفية والتهديدات بما في ذلك اكتشاف التصيد. حسنت عمليات التصعيد وتدفقات العمل لتقليل وقت الاستجابة وتحسين رضا العملاء.",
+                            "list": null,
+                            "province": "جفعتايم",
+                            "country": "إسرائيل",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        },
+                        "ru": {
+                            "title": "Аналитик по фишингу / Инженер поддержки",
+                            "description": "Оказывал комплексную техническую поддержку продуктов IBM Trusteer в области кибербезопасности, диагностировал и решал проблемы с ПО, чтобы минимизировать сбои у клиентов. Помогал в интеграции, установке, настройке и обслуживании решений безопасности, предоставлял обучение и создавал документацию для оптимизации использования продукта. Тесно сотрудничал с командами R&D, безопасности и продукта для выявления повторяющихся проблем, предоставления практической обратной связи и повышения надежности продукта. Эффективно управлял заявками в поддержку, соблюдая SLA, обеспечивал соответствие стандартам безопасности данных и поддерживал анализ конечных точек и угроз, включая выявление фишинга. Оптимизировал процессы эскалации и рабочие процессы для сокращения времени отклика и повышения удовлетворенности клиентов.",
+                            "list": null,
+                            "province": "Гиватаим",
+                            "country": "Израиль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        },
+                        "ua": {
+                            "title": "Аналітик фішингу / Інженер підтримки",
+                            "description": "Надавав комплексну технічну підтримку продуктів IBM Trusteer у сфері кібербезпеки, діагностував та усував проблеми з ПЗ, щоб мінімізувати перебої для клієнтів. Допомагав з інтеграцією, установкою, конфігурацією та обслуговуванням рішень безпеки, проводив навчання та створював документацію для оптимізації використання продукту. Тісно співпрацював з командами R&D, безпеки та продукту для виявлення повторюваних проблем, надання практичного зворотного зв’язку та підвищення надійності продукту. Ефективно керував заявками підтримки для дотримання SLA, забезпечував відповідність стандартам безпеки даних та підтримував аналіз кінцевих точок і загроз, включаючи виявлення фішингу. Оптимізував процеси ескалації та робочі потоки для скорочення часу реагування та підвищення задоволеності клієнтів.",
+                            "list": null,
+                            "province": "Гіватайм",
+                            "country": "Ізраїль",
+                            "institution": "IBM - Trusteer",
+                            "tags": [
+                                "vue3",
+                                "composition-api",
+                                "remote",
+                                "architecture"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

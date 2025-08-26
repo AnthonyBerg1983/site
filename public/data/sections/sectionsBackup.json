@@ -1,0 +1,220 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/about.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "en": {
+                    "title": "Hey! :) I am Anthony!",
+                    "title_short": "Welcome! :)",
+                    "description": "About",
+                    "nav_label": "About"
+                },
+                "he": {
+                    "title": "היי! :) אני אנתוני!",
+                    "title_short": "ברוך הבא! :)",
+                    "description": "אודות",
+                    "nav_label": "אודות"
+                },
+                "pt": {
+                    "title": "Oi! :) Eu sou o Anthony!",
+                    "title_short": "Bem-vindo! :)",
+                    "description": "Sobre",
+                    "nav_label": "Sobre"
+                }
+            }
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "education & Courses",
+                    "title_short": "Education",
+                    "description": "A glimpse into my academic trajectory and accomplishments",
+                    "nav_label": "Education"
+                },
+                "he": {
+                    "title": "השכלה",
+                    "title_short": "השכלה",
+                    "description": "הצצה למסלול האקדמי שלי ולהישגים שלי",
+                    "nav_label": "השכלה"
+                },
+                "pt": {
+                    "title": "Educação",
+                    "title_short": "Educação",
+                    "description": "Um vislumbre da minha trajetória acadêmica e conquistas",
+                    "nav_label": "Educação"
+                }
+            }
+        },
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Skills",
+                    "title_short": "Skills",
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                },
+                "he": {
+                    "title": "כישורים",
+                    "title_short": "כישורים",
+                    "description": "חקירה של מגוון הכישורים שרכשתי ופיתחתי:",
+                    "nav_label": "כישורים"
+                },
+                "pt": {
+                    "title": "Habilidades",
+                    "title_short": "Habilidades",
+                    "description": "Explorando a diversidade de habilidades que adquiri e desenvolvi:",
+                    "nav_label": "Habilidades"
+                }
+            }
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Experience",
+                    "title_short": "Experience",
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                },
+                "he": {
+                    "title": "ניסיון",
+                    "title_short": "ניסיון",
+                    "description": "מבט על הניסיון התעסוקתי שלי והקריירה שלי.",
+                    "nav_label": "ניסיון"
+                },
+                "pt": {
+                    "title": "Experiência",
+                    "title_short": "Experiência",
+                    "description": "Um olhar sobre minha experiência profissional e trajetória de carreira.",
+                    "nav_label": "Experiência"
+                }
+            }
+        },
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/portfolio.json",
+            "faIcon": "fa-solid fa-folder-open",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Portfolio",
+                    "title_short": "Explore a selection of my recent projects and creative works.",
+                    "description": null,
+                    "nav_label": "Portfolio"
+                },
+                "he": {
+                    "title": "תיק עבודות",
+                    "title_short": "מבחר מהפרויקטים והעבודות היצירתיות האחרונות שלי.",
+                    "description": null,
+                    "nav_label": "תיק עבודות"
+                },
+                "pt": {
+                    "title": "Portfólio",
+                    "title_short": "Explore uma seleção dos meus projetos e trabalhos criativos recentes.",
+                    "description": null,
+                    "nav_label": "Portfólio"
+                }
+            }
+        },
+        {
+            "id": "publications",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/publications.json",
+            "faIcon": "fa-solid fa-scroll",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Publications",
+                    "title_short": "Browse through articles, research, and other pieces I've written or content I've posted.",
+                    "description": null,
+                    "nav_label": "Publications"
+                },
+                "he": {
+                    "title": "פרסומים",
+                    "title_short": "עיין במאמרים, מחקרים ותכנים נוספים שכתבתי או פרסמתי.",
+                    "description": null,
+                    "nav_label": "פרסומים"
+                },
+                "pt": {
+                    "title": "Publicações",
+                    "title_short": "Navegue por artigos, pesquisas e outros conteúdos que escrevi ou publiquei.",
+                    "description": null,
+                    "nav_label": "Publicações"
+                }
+            }
+        },
+        {
+            "id": "updates",
+            "categoryId": "more",
+            "jsonPath": "/sections/updates.json",
+            "faIcon": "fa-solid fa-medal",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Updates",
+                    "title_short": "Here's a list of certifications I've got recently:",
+                    "description": null,
+                    "nav_label": "Updates"
+                },
+                "he": {
+                    "title": "עדכונים",
+                    "title_short": "רשימת התעודות שקיבלתי לאחרונה:",
+                    "description": null,
+                    "nav_label": "עדכונים"
+                },
+                "pt": {
+                    "title": "Atualizações",
+                    "title_short": "Aqui está uma lista de certificações que obtive recentemente:",
+                    "description": null,
+                    "nav_label": "Atualizações"
+                }
+            }
+        },
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "Contact",
+                    "title_short": "Contact",
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need.",
+                    "nav_label": "Contact"
+                },
+                "he": {
+                    "title": "צור קשר",
+                    "title_short": "צור קשר",
+                    "description": "אל תהסס ליצור איתי קשר בכל עת שתרגיש צורך.",
+                    "nav_label": "צור קשר"
+                },
+                "pt": {
+                    "title": "Contato",
+                    "title_short": "Contato",
+                    "description": "Não hesite em entrar em contato comigo sempre que sentir necessidade.",
+                    "nav_label": "Contato"
+                }
+            }
+        }
+    ]
+}

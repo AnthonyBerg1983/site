@@ -1,0 +1,87 @@
+{
+    "name": "Anthony Berg",
+    "profilePictureUrl": "images/pictures/me.jpg",
+    "locales": {
+        "en": {
+            "name": "Anthony Berg",
+            "credits": "Designed by <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "Full-Stack Developer"
+        },
+        "he": {
+            "name": "Anthony Berg",
+            "credits": "עוצב על ידי <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "מפתח פול-סטאק"
+        },
+        "pt": {
+            "name": "Anthony Berg",
+            "credits": "Desenhado por <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "Desenvolvedor Full-Stack"
+        },
+        "ar": {
+            "name": "Anthony Berg",
+            "credits": "صُمم بواسطة <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "مطور فل ستاك"
+        },
+        "ru": {
+            "name": "Anthony Berg",
+            "credits": "Разработано <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "Full-Stack разработчик"
+        },
+        "ua": {
+            "name": "Anthony Berg",
+            "credits": "Створено <strong><a href='https://github.com/AnthonyBerg1983'>Anthony Berg</a></strong>",
+            "role": "Full-Stack розробник"
+        }
+    },
+    "contactOptions": [
+        {
+            "id": "address",
+            "value": "Long Beach, NY",
+            "valueShort": "Long Beach – NY",
+            "faIcon": "fa-regular fa-map",
+            "href": null
+        },
+        {
+            "id": "email",
+            "value": "urchin.us@gmail.com",
+            "valueShort": "urchin.us@gmail.com",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:urchin.us@gmail.com"
+        },
+        {
+            "id": "github",
+            "value": "@AnthonyBerg1983",
+            "valueShort": "@AnthonyBerg1983",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/AnthonyBerg1983"
+        },
+        {
+            "id": "instagram",
+            "value": "@tuviaberg",
+            "valueShort": "@tuviaberg",
+            "faIcon": "fa-brands fa-instagram",
+            "href": "https://instagram.com/tuviaberg"
+        },
+        {
+            "id": "linkedin",
+            "value": "berganthony",
+            "valueShort": "berganthonyfa-regular fa-envelope",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/berganthony/"
+        },
+        {
+            "id": "phone",
+            "value": "(312) 975-7999",
+            "valueShort": "(312) 975-7999",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:13129757999"
+        },
+        {
+            "id": "facebook",
+            "value": "AnthonyBerg1983",
+            "valueShort": "https://www.facebook.com/AnthonyBerg1983",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://www.facebook.com/AnthonyBerg1983"
+        }
+    ]
+}

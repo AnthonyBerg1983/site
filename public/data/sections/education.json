@@ -1,0 +1,544 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2002, "month": 9},
+                    "dateEnd": {"year": 2006, "month": 5},
+                    "img": "images/pictures/columbiaCollegeChicago.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Bachelor’s Degree",
+                            "description": "Focus: Audio arts and acoustics with a focus on sound recording, sound design, and sound for pictures. Gained hands-on experience with professional equipment, collaborated across music, film, and interactive multimedia, while building a foundation for career in audio engineering, sound design, and production.",
+                            "list": {
+                                "title": "Key projects:",
+                                "items": [
+                                    "<strong>Sound Recording:</strong> Capturing high-quality audio in studio and live environments.",
+                                    "<strong>Mixing & Editing Music:</strong> Balancing tracks, refining arrangements, and preparing polished final mixes.",
+                                    "<strong>Sound Design (Max/MSP):</strong> Building custom audio effects, synthesis tools, and interactive soundscapes.",
+                                    "<strong>Sound for Pictures:</strong> Creating and synchronizing audio for film, television, and video projects.",
+                                    "<strong>Sound Reinforcement:</strong> Setting up and operating live sound systems for concerts, theater, and events."
+                                ]
+                            },
+                            "province": "Chicago, IL",
+                            "country": "US",
+                            "institution": "Columbia College"
+                        },
+                        "he": {
+                            "title": "תואר ראשון",
+                            "description": "לימודים באומנות סאונד ואקוסטיקה עם דגש על הקלטת סאונד, עיצוב סאונד וסאונד לסרטים. רכישת ניסיון מעשי עם ציוד מקצועי, עבודה בשיתוף עם מוזיקאים, סרטים ומולטימדיה אינטראקטיבית, תוך בניית בסיס לקריירה בהנדסת סאונד, עיצוב סאונד והפקה.",
+                            "list": {
+                                "title": "פרויקטים עיקריים:",
+                                "items": [
+                                    "<strong>הקלטת סאונד:</strong> הקלטת אודיו איכותי בסדנה ובסביבה חיה.",
+                                    "<strong>מיקסינג ועריכת מוזיקה:</strong> איזון מסלולים, שיפור סידורים והכנת מיקס סופי מלוטש.",
+                                    "<strong>עיצוב סאונד (Max/MSP):</strong> בניית אפקטים מותאמים אישית, כלי סינתזה ונופים סאונד אינטראקטיביים.",
+                                    "<strong>סאונד לסרטים:</strong> יצירה וסנכרון אודיו עבור סרטים, טלוויזיה ופרויקטים ווידאו.",
+                                    "<strong>חיזוק סאונד:</strong> התקנה והפעלה של מערכות סאונד חיות לקונצרטים, תיאטרון ואירועים."
+                                ]
+                            },
+                            "province": "שיקגו",
+                            "country": "ארה\"ב",
+                            "institution": "Columbia College"
+                        },
+                        "pt": {
+                            "title": "Bacharelado",
+                            "description": "Foco: Artes de áudio e acústica, com ênfase em gravação de som, design de som e som para imagens. Experiência prática com equipamentos profissionais, colaboração em música, cinema e multimídia interativa, construindo uma base para carreira em engenharia de áudio, design de som e produção.",
+                            "list": {
+                                "title": "Projetos principais:",
+                                "items": [
+                                    "<strong>Gravação de Som:</strong> Captura de áudio de alta qualidade em estúdio e ambientes ao vivo.",
+                                    "<strong>Mixagem e Edição de Música:</strong> Balanceamento de faixas, refinamento de arranjos e preparação de mixagens finais polidas.",
+                                    "<strong>Design de Som (Max/MSP):</strong> Construção de efeitos de áudio personalizados, ferramentas de síntese e paisagens sonoras interativas.",
+                                    "<strong>Som para Imagens:</strong> Criação e sincronização de áudio para filmes, televisão e projetos de vídeo.",
+                                    "<strong>Reforço de Som:</strong> Configuração e operação de sistemas de som ao vivo para concertos, teatro e eventos."
+                                ]
+                            },
+                            "province": "Chicago",
+                            "country": "EUA",
+                            "institution": "Columbia College"
+                        },
+                        "ar": {
+                            "title": "درجة البكالوريوس",
+                            "description": "التركيز: فنون الصوت والأكوستيك مع التركيز على تسجيل الصوت وتصميم الصوت والصوت للصور. اكتسبت خبرة عملية مع المعدات الاحترافية، وتعاونت مع فرق الموسيقى والسينما والوسائط التفاعلية، وبنيت أساسًا لمسيرة مهنية في هندسة الصوت وتصميم الصوت والإنتاج.",
+                            "list": {
+                                "title": "المشاريع الرئيسية:",
+                                "items": [
+                                    "<strong>تسجيل الصوت:</strong> تسجيل صوت عالي الجودة في الاستوديو والبيئات الحية.",
+                                    "<strong>مزج وتحرير الموسيقى:</strong> موازنة المسارات، تحسين الترتيبات، وإعداد المزيج النهائي.",
+                                    "<strong>تصميم الصوت (Max/MSP):</strong> إنشاء تأثيرات صوتية مخصصة وأدوات توليف ومناظر صوتية تفاعلية.",
+                                    "<strong>الصوت للصور:</strong> إنشاء ومزامنة الصوت للأفلام والتلفزيون ومشاريع الفيديو.",
+                                    "<strong>تعزيز الصوت:</strong> إعداد وتشغيل أنظمة الصوت الحية للحفلات والمسرح والفعاليات."
+                                ]
+                            },
+                            "province": "شيكاغو، إلينوي",
+                            "country": "الولايات المتحدة الأمريكية",
+                            "institution": "Columbia College"
+                        },
+                        "ru": {
+                            "title": "Степень бакалавра",
+                            "description": "Фокус: аудиотворчество и акустика с упором на звукозапись, звуковой дизайн и звук для видео. Получен практический опыт работы с профессиональным оборудованием, сотрудничество в музыке, кино и интерактивных мультимедиа, создание базы для карьеры в области аудиоинженерии, звукового дизайна и продакшена.",
+                            "list": {
+                                "title": "Ключевые проекты:",
+                                "items": [
+                                    "<strong>Запись звука:</strong> Захват качественного звука в студии и на живых мероприятиях.",
+                                    "<strong>Сведение и редактирование музыки:</strong> Балансировка дорожек, улучшение аранжировок и подготовка финальных миксов.",
+                                    "<strong>Звуковой дизайн (Max/MSP):</strong> Создание пользовательских аудиоэффектов, инструментов синтеза и интерактивных звуковых сцен.",
+                                    "<strong>Звук для видео:</strong> Создание и синхронизация аудио для фильмов, телевидения и видеопроектов.",
+                                    "<strong>Усиление звука:</strong> Настройка и эксплуатация живых звуковых систем для концертов, театра и мероприятий."
+                                ]
+                            },
+                            "province": "Чикаго, Иллинойс",
+                            "country": "США",
+                            "institution": "Columbia College"
+                        },
+                        "ua": {
+                            "title": "Ступінь бакалавра",
+                            "description": "Фокус: аудіо мистецтво та акустика з акцентом на звукозапис, звуковий дизайн та звук для відео. Набуто практичний досвід роботи з професійним обладнанням, співпраця у музиці, кіно та інтерактивних мультимедіа, створено основу для кар'єри в аудіоінженерії, звуковому дизайні та продакшені.",
+                            "list": {
+                                "title": "Ключові проєкти:",
+                                "items": [
+                                    "<strong>Запис звуку:</strong> Захоплення високоякісного аудіо у студії та на живих заходах.",
+                                    "<strong>Зведення та редагування музики:</strong> Балансування доріжок, вдосконалення аранжувань та підготовка фінальних міксів.",
+                                    "<strong>Звуковий дизайн (Max/MSP):</strong> Створення кастомних аудіоефектів, інструментів синтезу та інтерактивних звукових сцен.",
+                                    "<strong>Звук для відео:</strong> Створення та синхронізація аудіо для фільмів, телебачення та відеопроєктів.",
+                                    "<strong>Підсилення звуку:</strong> Налаштування та експлуатація живих звукових систем для концертів, театру та заходів."
+                                ]
+                            },
+                            "province": "Чикаго, Іллінойс",
+                            "country": "США",
+                            "institution": "Columbia College"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 5},
+                    "img": "images/pictures/udemy.jpg",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Udemy",
+                            "description": "Studied software development, algorithms, and full-stack web technologies with a focus on building scalable and maintainable applications. Gained hands-on experience with Python (including REST APIs, OOP, and data structures), Docker and container orchestration, and cloud deployment with AWS. Explored modern front-end frameworks such as Vue.js and Angular, and developed server-side skills using Node.js, GraphQL, and MVC architecture. Participated in multiple projects, applying best practices in coding, version control, and DevOps, while strengthening problem-solving and algorithmic thinking for real-world applications.",
+                            "list": {
+                                "title": "Courses:",
+                                "items": [
+                                    "<strong>Python</strong> REST APIs with Flask, Docker, MongoDB, and AWS DevOps",
+                                    "<strong>Python 3:</strong> Deep Dive (Part 1 - Functional)",
+                                    "<strong>Python 3:</strong> Deep Dive (Part 2 - Iterators, Generators)",
+                                    "<strong>Python 3:</strong> Deep Dive (Part 3 - Dictionaries, Sets, JSON)",
+                                    "<strong>Python 3:</strong> Deep Dive (Part 4 - OOP)",
+                                    "<strong>Docker:</strong> Essentials",
+                                    "<strong>Docker Mastery:</strong> with Kubernetes +Swarm from a Docker Captain",
+                                    "<strong>Complexity Theory:</strong> Running Time Analysis of Algorithms",
+                                    "<strong>Vue:</strong> The Complete Guide (incl. Router & Composition API)",
+                                    "<strong>The Complete Angular Course:</strong> Beginner to Advanced",
+                                    "<strong>NodeJS:</strong> The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+                                    "<strong>Master the Coding Interview:</strong> Data Structures + Algorithms",
+                                    "<strong>Algorithms and Data Structures in Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> Master Git and GitHub - Beginner to Expert"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        },
+                        "he": {
+                            "title": "Udemy",
+                            "description": "למדתי פיתוח תוכנה, אלגוריתמים וטכנולוגיות ווב פול-סטאק עם דגש על בניית יישומים ניתנים להרחבה ותחזוקה. רכשתי ניסיון מעשי ב-Python (כולל REST APIs, תכנות מונחה עצמים ומבני נתונים), Docker ותזמור קונטיינרים, ופריסות ענן ב-AWS. חקרתי פריימוורקים מודרניים לצד-לקוח כגון Vue.js ו-Angular, ופיתחתי מיומנויות צד-שרת באמצעות Node.js, GraphQL וארכיטקטורת MVC. השתתפתי במספר פרויקטים, תוך יישום שיטות עבודה מומלצות בקוד, ניהול גרסאות ו-DevOps, וחיזוק יכולות פתרון בעיות וחשיבה אלגוריתמית ליישומים בעולם האמיתי.",
+                            "list": {
+                                "title": "קורסים:",
+                                "items": [
+                                    "<strong>Python REST APIs עם Flask, Docker, MongoDB ו-AWS DevOps</strong>",
+                                    "<strong>Python 3:</strong> מבט מעמיק (חלק 1 - פונקציונלי)",
+                                    "<strong>Python 3:</strong> מבט מעמיק (חלק 2 - איטרטורים, גנרטורים)",
+                                    "<strong>Python 3:</strong> מבט מעמיק (חלק 3 - מילונים, קבוצות, JSON)",
+                                    "<strong>Python 3:</strong> מבט מעמיק (חלק 4 - OOP)",
+                                    "<strong>Docker:</strong> יסודות",
+                                    "<strong>Docker Mastery:</strong> עם Kubernetes +Swarm מ-Docker Captain",
+                                    "<strong>Complexity Theory:</strong> ניתוח זמן ריצה של אלגוריתמים",
+                                    "<strong>Vue:</strong> המדריך השלם (כולל Router ו-Composition API)",
+                                    "<strong>Angular:</strong> הקורס השלם (מתחילים עד מתקדמים)",
+                                    "<strong>NodeJS:</strong> המדריך השלם (MVC, REST APIs, GraphQL, Deno)",
+                                    "<strong>Master the Coding Interview:</strong> מבני נתונים ואלגוריתמים",
+                                    "<strong>אלגוריתמים ומבני נתונים ב-Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> שליטה ב-Git ו-GitHub - מתחילים עד מתקדמים"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        },
+                        "pt": {
+                            "title": "Udemy",
+                            "description": "Estudei desenvolvimento de software, algoritmos e tecnologias web full-stack com foco na construção de aplicações escaláveis e de fácil manutenção. Adquiri experiência prática com Python (incluindo REST APIs, POO e estruturas de dados), Docker e orquestração de contêineres, além de implantação em nuvem com AWS. Explorei frameworks modernos de front-end como Vue.js e Angular, e desenvolvi habilidades de back-end utilizando Node.js, GraphQL e arquitetura MVC. Participei de múltiplos projetos, aplicando boas práticas de programação, controle de versão e DevOps, enquanto fortalecia a capacidade de resolução de problemas e o raciocínio algorítmico em aplicações do mundo real.",
+                            "list": {
+                                "title": "Cursos:",
+                                "items": [
+                                    "<strong>Python REST APIs com Flask, Docker, MongoDB e AWS DevOps</strong>",
+                                    "<strong>Python 3:</strong> Deep Dive (Parte 1 - Funcional)",
+                                    "<strong>Python 3:</strong> Deep Dive (Parte 2 - Iteradores, Geradores)",
+                                    "<strong>Python 3:</strong> Deep Dive (Parte 3 - Dicionários, Conjuntos, JSON)",
+                                    "<strong>Python 3:</strong> Deep Dive (Parte 4 - POO)",
+                                    "<strong>Docker:</strong> Essencial",
+                                    "<strong>Docker Mastery:</strong> com Kubernetes +Swarm de um Docker Captain",
+                                    "<strong>Teoria da Complexidade:</strong> Análise de Tempo de Execução de Algoritmos",
+                                    "<strong>Vue:</strong> Guia Completo (incl. Router & Composition API)",
+                                    "<strong>Curso Completo de Angular:</strong> Iniciante ao Avançado",
+                                    "<strong>NodeJS:</strong> Guia Completo (MVC, REST APIs, GraphQL, Deno)",
+                                    "<strong>Master the Coding Interview:</strong> Estruturas de Dados + Algoritmos",
+                                    "<strong>Algoritmos e Estruturas de Dados em Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> Domine Git e GitHub - Do Iniciante ao Expert"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        },
+                        "ar": {
+                            "title": "Udemy",
+                            "description": "دراسة تطوير البرمجيات والخوارزميات وتقنيات الويب الشاملة مع التركيز على بناء تطبيقات قابلة للتوسع وسهلة الصيانة. اكتسبت خبرة عملية في Python (بما في ذلك REST APIs، البرمجة الشيئية، وهياكل البيانات)، Docker وتنظيم الحاويات، ونشر التطبيقات على السحابة باستخدام AWS. استكشفت أطر عمل حديثة للواجهة الأمامية مثل Vue.js وAngular، وطورت مهارات الخادم باستخدام Node.js وGraphQL وMVC.",
+                            "list": {
+                                "title": "الدورات:",
+                                "items": [
+                                    "<strong>Python</strong> REST APIs مع Flask وDocker وMongoDB وAWS DevOps",
+                                    "<strong>Python 3:</strong> الغوص العميق (الجزء 1 - البرمجة الوظيفية)",
+                                    "<strong>Python 3:</strong> الغوص العميق (الجزء 2 - المكررات والمولّدات)",
+                                    "<strong>Python 3:</strong> الغوص العميق (الجزء 3 - القواميس والمجموعات وJSON)",
+                                    "<strong>Python 3:</strong> الغوص العميق (الجزء 4 - البرمجة الشيئية)",
+                                    "<strong>Docker:</strong> الأساسيات",
+                                    "<strong>Docker Mastery:</strong> مع Kubernetes +Swarm من Docker Captain",
+                                    "<strong>نظرية التعقيد:</strong> تحليل زمن تنفيذ الخوارزميات",
+                                    "<strong>Vue:</strong> الدليل الكامل (يشمل Router وComposition API)",
+                                    "<strong>دورة Angular الكاملة:</strong> من المبتدئين إلى المتقدمين",
+                                    "<strong>NodeJS:</strong> الدليل الكامل (MVC، REST APIs، GraphQL، Deno)",
+                                    "<strong>Master the Coding Interview:</strong> هياكل البيانات والخوارزميات",
+                                    "<strong>Algorithms and Data Structures in Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> اتقن Git وGitHub - من المبتدئ إلى الخبير"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        },
+                        "ru": {
+                            "title": "Udemy",
+                            "description": "Изучение разработки программного обеспечения, алгоритмов и full-stack веб-технологий с акцентом на создание масштабируемых и поддерживаемых приложений. Получен практический опыт работы с Python (REST API, ООП, структуры данных), Docker и оркестрацией контейнеров, а также развертыванием в облаке с AWS. Изучены современные фронтенд-фреймворки, такие как Vue.js и Angular, а также серверные технологии с Node.js, GraphQL и архитектурой MVC.",
+                            "list": {
+                                "title": "Курсы:",
+                                "items": [
+                                    "<strong>Python</strong> REST APIs с Flask, Docker, MongoDB и AWS DevOps",
+                                    "<strong>Python 3:</strong> Глубокое погружение (Часть 1 - Функциональное программирование)",
+                                    "<strong>Python 3:</strong> Глубокое погружение (Часть 2 - Итераторы, Генераторы)",
+                                    "<strong>Python 3:</strong> Глубокое погружение (Часть 3 - Словари, Множества, JSON)",
+                                    "<strong>Python 3:</strong> Глубокое погружение (Часть 4 - ООП)",
+                                    "<strong>Docker:</strong> Основы",
+                                    "<strong>Docker Mastery:</strong> с Kubernetes +Swarm от Docker Captain",
+                                    "<strong>Теория сложности:</strong> Анализ времени выполнения алгоритмов",
+                                    "<strong>Vue:</strong> Полное руководство (включая Router & Composition API)",
+                                    "<strong>Полный курс Angular:</strong> От начинающего до продвинутого",
+                                    "<strong>NodeJS:</strong> Полное руководство (MVC, REST APIs, GraphQL, Deno)",
+                                    "<strong>Master the Coding Interview:</strong> Структуры данных + Алгоритмы",
+                                    "<strong>Алгоритмы и структуры данных в Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> Освойте Git и GitHub - от новичка до эксперта"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        },
+                        "ua": {
+                            "title": "Udemy",
+                            "description": "Вивчав розробку програмного забезпечення, алгоритми та full-stack веб-технології з акцентом на створення масштабованих і підтримуваних додатків. Набуто практичний досвід роботи з Python (REST API, ООП, структури даних), Docker та оркестрацією контейнерів, а також розгортання в хмарі з AWS. Досліджено сучасні фронтенд-фреймворки, такі як Vue.js і Angular, а також серверні технології з Node.js, GraphQL та архітектурою MVC.",
+                            "list": {
+                                "title": "Курси:",
+                                "items": [
+                                    "<strong>Python</strong> REST APIs з Flask, Docker, MongoDB та AWS DevOps",
+                                    "<strong>Python 3:</strong> Глибоке занурення (Частина 1 - Функціональне програмування)",
+                                    "<strong>Python 3:</strong> Глибоке занурення (Частина 2 - Ітератори, Генератори)",
+                                    "<strong>Python 3:</strong> Глибоке занурення (Частина 3 - Словники, Множини, JSON)",
+                                    "<strong>Python 3:</strong> Глибоке занурення (Частина 4 - ООП)",
+                                    "<strong>Docker:</strong> Основи",
+                                    "<strong>Docker Mastery:</strong> з Kubernetes +Swarm від Docker Captain",
+                                    "<strong>Теорія складності:</strong> Аналіз часу виконання алгоритмів",
+                                    "<strong>Vue:</strong> Повний посібник (вкл. Router & Composition API)",
+                                    "<strong>Повний курс Angular:</strong> Від початківця до просунутого",
+                                    "<strong>NodeJS:</strong> Повний посібник (MVC, REST APIs, GraphQL, Deno)",
+                                    "<strong>Master the Coding Interview:</strong> Структури даних + Алгоритми",
+                                    "<strong>Алгоритми та структури даних в Python</strong>",
+                                    "<strong>GitHub Ultimate:</strong> Опановуйте Git і GitHub - від початківця до експерта"
+                                ]
+                            },
+                            "institution": "Udemy"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 5},
+                    "img": "images/pictures/coursera.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "Coursera",
+                            "description": "Google Cybersecurity Professional Certificate, gaining hands-on experience in cybersecurity fundamentals, threat intelligence, and network defense. Built practical skills in Python, Linux, SQL, Bash scripting, and Security Information and Event Management (SIEM) tools, while conducting intrusion detection, vulnerability assessments, and risk mitigation. Applied knowledge through project-based learning and portfolio activities simulating real-world cybersecurity scenarios, preparing for entry-level roles such as cybersecurity analyst and SOC analyst. Developed problem-solving, analysis, and collaboration capabilities, and earned an employer-recognized credential with preparation for the CompTIA Security+ certification.",
+                            "list": {
+                                "title": "Courses:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> Cybersecurity fundamentals and best practices; threat intelligence, intrusion detection, and prevention; hands-on experience with Python, Linux, SQL, and Bash scripting; vulnerability assessment and risk mitigation; security operations and SIEM tools; applied project-based learning with portfolio development."
+                                ]
+                            },
+                            "institution": "Coursera"
+                        },
+                        "he": {
+                            "title": "קורסרה",
+                            "description": "תעודת הסמכה מקצועית של Google בתחום הסייבר, עם התנסות מעשית ביסודות אבטחת מידע, מודיעין איומים והגנת רשתות. פיתוח מיומנויות מעשיות ב-Python, Linux, SQL, Bash scripting וכלי SIEM לניהול אירועי אבטחה, לצד גילוי חדירות, הערכת פגיעויות וצמצום סיכונים. יישום הידע באמצעות למידה מבוססת פרויקטים ופעילויות פורטפוליו המדמות תרחישים מעשיים, כהכנה לתפקידי כניסה כגון אנליסט סייבר ואנליסט SOC. פיתוח יכולות פתרון בעיות, ניתוח ושיתוף פעולה, וקבלת הסמכה מוכרת על ידי מעסיקים עם הכנה למבחן CompTIA Security+.",
+                            "list": {
+                                "title": "קורסים:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> יסודות ושיטות עבודה באבטחת מידע; מודיעין איומים, גילוי ומניעת חדירות; התנסות מעשית ב-Python, Linux, SQL, Bash scripting; הערכת פגיעויות וצמצום סיכונים; תפעול מערכות אבטחה וכלי SIEM; למידה מבוססת פרויקטים עם פיתוח פורטפוליו."
+                                ]
+                            },
+                            "institution": "קורסרה"
+                        },
+                        "pt": {
+                            "title": "Coursera",
+                            "description": "Certificado Profissional em Cibersegurança do Google, com experiência prática em fundamentos de segurança cibernética, inteligência de ameaças e defesa de redes. Desenvolvimento de habilidades práticas em Python, Linux, SQL, Bash scripting e ferramentas de SIEM para gerenciamento de eventos de segurança, além de detecção de intrusões, avaliações de vulnerabilidades e mitigação de riscos. Aplicação do conhecimento por meio de aprendizagem baseada em projetos e atividades de portfólio que simulam cenários reais, preparando para funções de nível inicial como analista de cibersegurança e analista de SOC. Desenvolvimento de capacidades de resolução de problemas, análise e colaboração, além de obtenção de credencial reconhecida por empregadores com preparação para a certificação CompTIA Security+.",
+                            "list": {
+                                "title": "Cursos:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> Fundamentos e melhores práticas em cibersegurança; inteligência de ameaças, detecção e prevenção de intrusões; experiência prática com Python, Linux, SQL e Bash scripting; avaliação de vulnerabilidades e mitigação de riscos; operações de segurança e ferramentas SIEM; aprendizagem baseada em projetos com desenvolvimento de portfólio."
+                                ]
+                            },
+                            "institution": "Coursera"
+                        },
+                        "ar": {
+                            "title": "Coursera",
+                            "description": "شهادة محترف الأمن السيبراني من Google، مع اكتساب خبرة عملية في أساسيات الأمن السيبراني، استخبارات التهديدات، والدفاع عن الشبكات. تطوير مهارات عملية في Python وLinux وSQL وBash scripting وأدوات إدارة معلومات وأحداث الأمان (SIEM)، مع تنفيذ كشف التسلل، تقييم الثغرات، وتقليل المخاطر. تطبيق المعرفة من خلال التعلم القائم على المشاريع وأنشطة المحفظة التي تحاكي سيناريوهات الأمن السيبراني الواقعية.",
+                            "list": {
+                                "title": "الدورات:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> أساسيات وممارسات الأمن السيبراني؛ استخبارات التهديدات، كشف ومنع التسلل؛ خبرة عملية في Python وLinux وSQL وBash scripting؛ تقييم الثغرات وتقليل المخاطر؛ عمليات الأمن وأدوات SIEM؛ تعلم قائم على المشاريع مع تطوير المحفظة."
+                                ]
+                            },
+                            "institution": "Coursera"
+                        },
+                        "ru": {
+                            "title": "Coursera",
+                            "description": "Профессиональный сертификат Google по кибербезопасности, получение практического опыта в основах кибербезопасности, разведке угроз и защите сети. Развитие практических навыков в Python, Linux, SQL, Bash scripting и инструментах SIEM, с проведением обнаружения вторжений, оценки уязвимостей и снижения рисков. Применение знаний через обучение на проектах и создание портфолио, моделирующих реальные сценарии кибербезопасности.",
+                            "list": {
+                                "title": "Курсы:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> Основы и лучшие практики кибербезопасности; разведка угроз, обнаружение и предотвращение вторжений; практический опыт с Python, Linux, SQL и Bash scripting; оценка уязвимостей и снижение рисков; операции безопасности и инструменты SIEM; обучение на проектах с созданием портфолио."
+                                ]
+                            },
+                            "institution": "Coursera"
+                        },
+                        "ua": {
+                            "title": "Coursera",
+                            "description": "Професійний сертифікат Google з кібербезпеки, набуття практичного досвіду в основах кібербезпеки, розвідці загроз та захисті мережі. Розвиток практичних навичок у Python, Linux, SQL, Bash scripting та інструментах SIEM, проведення виявлення вторгнень, оцінки вразливостей та пом’якшення ризиків. Застосування знань через навчання на основі проєктів та створення портфоліо, що імітує реальні сценарії кібербезпеки.",
+                            "list": {
+                                "title": "Курси:",
+                                "items": [
+                                    "<strong>Google Cybersecurity:</strong> Основи та найкращі практики кібербезпеки; розвідка загроз, виявлення та запобігання вторгнень; практичний досвід з Python, Linux, SQL та Bash scripting; оцінка вразливостей та пом’якшення ризиків; операції безпеки та інструменти SIEM; навчання на проєктах із розробкою портфоліо."
+                                ]
+                            },
+                            "institution": "Coursera"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 5},
+                    "img": "images/pictures/edx.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "edX",
+                            "description": "Introduction to Computer Science—gain a solid foundation in programming, algorithms, and computational thinking from one of the world’s top institutions. Learn online at your own pace and start building the skills to launch a career in computer science.",
+                            "list": {
+                                "title": "Courses:",
+                                "items": [
+                                    "<strong>CS50:</strong> Harvard's Introduction to Computer Science"
+                                ]
+                            },
+                            "institution": "edX"
+                        },
+                        "he": {
+                            "title": "edX",
+                            "description": "מבוא למדעי המחשב — קבלו יסודות חזקים בתכנות, אלגוריתמים וחשיבה חישובית מאחת המוסדות המובילים בעולם. למדו אונליין בקצב שלכם והתחילו לפתח את הכישורים הנדרשים לקריירה במדעי המחשב.",
+                            "list": {
+                                "title": "קורסים:",
+                                "items": [
+                                    "<strong>CS50:</strong> מבוא למדעי המחשב של הרווארד"
+                                ]
+                            },
+                            "institution": "edX"
+                        },
+                        "pt": {
+                            "title": "edX",
+                            "description": "Introdução à Ciência da Computação — adquira uma base sólida em programação, algoritmos e pensamento computacional de uma das principais instituições do mundo. Estude online no seu próprio ritmo e comece a desenvolver as habilidades necessárias para iniciar uma carreira em ciência da computação.",
+                            "list": {
+                                "title": "Cursos:",
+                                "items": [
+                                    "<strong>CS50:</strong> Introdução à Ciência da Computação de Harvard"
+                                ]
+                            },
+                            "institution": "edX"
+                        },
+                        "ar": {
+                            "title": "edX",
+                            "description": "مقدمة في علوم الحاسوب — اكتسب أساساً قوياً في البرمجة والخوارزميات والتفكير الحسابي من إحدى أفضل المؤسسات التعليمية في العالم. تعلم عبر الإنترنت وفق وتيرتك الخاصة وابدأ في بناء المهارات اللازمة لبدء مسيرة مهنية في علوم الحاسوب.",
+                            "list": {
+                                "title": "الدورات:",
+                                "items": [
+                                    "<strong>CS50:</strong> مقدمة جامعة هارفارد لعلوم الحاسوب"
+                                ]
+                            },
+                            "institution": "edX"
+                        },
+                        "ru": {
+                            "title": "edX",
+                            "description": "Введение в информатику — получите прочную основу в программировании, алгоритмах и вычислительном мышлении от одного из ведущих учебных заведений мира. Учитесь онлайн в удобном для вас темпе и начните развивать навыки для старта карьеры в области информатики.",
+                            "list": {
+                                "title": "Курсы:",
+                                "items": [
+                                    "<strong>CS50:</strong> Введение в информатику Гарварда"
+                                ]
+                            },
+                            "institution": "edX"
+                        },
+                        "ua": {
+                            "title": "edX",
+                            "description": "Вступ до комп’ютерних наук — отримайте міцну базу з програмування, алгоритмів та обчислювального мислення від одного з провідних навчальних закладів світу. Навчайтеся онлайн у своєму темпі та почніть розвивати навички для побудови кар’єри в галузі комп’ютерних наук.",
+                            "list": {
+                                "title": "Курси:",
+                                "items": [
+                                    "<strong>CS50:</strong> Вступ до комп’ютерних наук Гарварду"
+                                ]
+                            },
+                            "institution": "edX"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2025, "month": 5},
+                    "img": "images/pictures/ibm.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "en": {
+                            "title": "IBM",
+                            "description": "Pursued continuous professional development through IBM’s internal and external learning platforms, gaining hands-on experience in cloud computing, artificial intelligence, data analytics, cybersecurity, and full-stack software development. Built practical skills through a combination of role-specific courses, certifications, and project-based learning, while strengthening problem-solving, DevOps, and collaboration capabilities.",
+                            "list": {
+                                "title": "Courses:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> IBM’s internal platform with courses across cloud computing, AI, data analytics, cybersecurity, and more, tailored to employee roles and career goals.",
+                                    "<strong>IBM SkillsBuild:</strong> Online skills-based learning with 1,000+ courses, offering training in AI, cybersecurity, data analysis, cloud computing, and workplace skills like Design Thinking. Participants earn IBM-branded digital credentials.",
+                                    "<strong>IBM Training:</strong> Technical training programs covering IBM software and hardware, including IBM Cloud, Watson, z/OS, and enterprise solutions.",
+                                    "<strong>External Partnerships:</strong> Specialized courses and certifications offered through platforms such as Coursera, covering data science, AI, cybersecurity, and software development.",
+                                    "<strong>Data Science & AI:</strong> Threat intelligence, risk management, and security protocols.",
+                                    "<strong>Cybersecurity:</strong> Specialized courses and certifications offered through platforms such as Coursera, covering data science, AI, cybersecurity, and software development.",
+                                    "<strong>Cloud Computing:</strong> IBM Cloud, Kubernetes, and DevOps certifications."
+                                ]
+                            },
+                            "institution": "IBM"
+                        },
+                        "he": {
+                            "title": "IBM",
+                            "description": "התפתחות מקצועית מתמשכת באמצעות פלטפורמות הלמידה הפנימיות והחיצוניות של IBM, עם ניסיון מעשי במחשוב ענן, בינה מלאכותית, ניתוח נתונים, סייבר ופיתוח תוכנה Full-Stack. פיתוח מיומנויות מעשיות באמצעות שילוב של קורסים ייעודיים, הסמכות ולמידה מבוססת פרויקטים, תוך חיזוק יכולות פתרון בעיות, DevOps ושיתופיות.",
+                            "list": {
+                                "title": "קורסים:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> פלטפורמה פנימית של IBM עם קורסים במחשוב ענן, בינה מלאכותית, ניתוח נתונים, סייבר ועוד, מותאמים לתפקידי עובדים ויעדי קריירה.",
+                                    "<strong>IBM SkillsBuild:</strong> למידה מקוונת מבוססת מיומנויות עם יותר מ-1,000 קורסים בתחומים כמו AI, סייבר, ניתוח נתונים, מחשוב ענן וכישורי עבודה כמו Design Thinking. משתתפים זוכים בתעודות דיגיטליות ממותגות IBM.",
+                                    "<strong>IBM Training:</strong> הכשרות טכניות למוצרי התוכנה והחומרה של IBM, כולל IBM Cloud, Watson, z/OS ופתרונות ארגוניים.",
+                                    "<strong>External Partnerships:</strong> קורסים והסמכות ייחודיים המוצעים באמצעות פלטפורמות כמו Coursera בתחומים כגון מדע הנתונים, בינה מלאכותית, סייבר ופיתוח תוכנה.",
+                                    "<strong>Data Science & AI:</strong> מודיעין איומים, ניהול סיכונים ופרוטוקולי אבטחה.",
+                                    "<strong>Cybersecurity:</strong> קורסים והסמכות ייחודיים בתחומי סייבר, ניתוח נתונים ובינה מלאכותית.",
+                                    "<strong>Cloud Computing:</strong> הסמכות IBM Cloud, Kubernetes-DevOps."
+                                ]
+                            },
+                            "institution": "IBM"
+                        },
+                        "pt": {
+                            "title": "IBM",
+                            "description": "Desenvolvimento profissional contínuo por meio das plataformas internas e externas de aprendizado da IBM, adquirindo experiência prática em computação em nuvem, inteligência artificial, análise de dados, cibersegurança e desenvolvimento full-stack. Construiu competências práticas através de cursos específicos, certificações e aprendizagem baseada em projetos, fortalecendo habilidades de resolução de problemas, DevOps e colaboração.",
+                            "list": {
+                                "title": "Cursos:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> Plataforma interna da IBM com cursos em computação em nuvem, IA, análise de dados, cibersegurança e mais, adaptados a funções e metas de carreira dos colaboradores.",
+                                    "<strong>IBM SkillsBuild:</strong> Aprendizado online baseado em competências com mais de 1.000 cursos em áreas como IA, cibersegurança, análise de dados, computação em nuvem e habilidades de trabalho como Design Thinking. Participantes recebem credenciais digitais da IBM reconhecidas no setor.",
+                                    "<strong>IBM Training:</strong> Programas de treinamento técnico que abrangem software e hardware da IBM, incluindo IBM Cloud, Watson, z/OS e soluções empresariais.",
+                                    "<strong>External Partnerships:</strong> Cursos e certificações especializados oferecidos em plataformas como Coursera, cobrindo ciência de dados, IA, cibersegurança e desenvolvimento de software.",
+                                    "<strong>Data Science & AI:</strong> Inteligência contra ameaças, gestão de riscos e protocolos de segurança.",
+                                    "<strong>Cybersecurity:</strong> Cursos e certificações especializados em ciência de dados, IA, cibersegurança e desenvolvimento de software.",
+                                    "<strong>Cloud Computing:</strong> Certificações em IBM Cloud, Kubernetes e DevOps."
+                                ]
+                            },
+                            "institution": "IBM"
+                        },
+                        "ar": {
+                            "title": "IBM",
+                            "description": "متابعة التطوير المهني المستمر من خلال منصات التعلم الداخلية والخارجية لشركة IBM، واكتساب خبرة عملية في الحوسبة السحابية، والذكاء الاصطناعي، وتحليل البيانات، والأمن السيبراني، وتطوير البرمجيات Full-Stack. تم بناء مهارات عملية من خلال مزيج من الدورات المتخصصة، والشهادات، والتعلم القائم على المشاريع، مع تعزيز قدرات حل المشكلات، وDevOps، والتعاون.",
+                            "list": {
+                                "title": "الدورات:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> منصة IBM الداخلية مع دورات في الحوسبة السحابية، والذكاء الاصطناعي، وتحليل البيانات، والأمن السيبراني، والمزيد، مصممة لأدوار الموظفين وأهدافهم المهنية.",
+                                    "<strong>IBM SkillsBuild:</strong> تعلم عبر الإنترنت قائم على المهارات مع أكثر من 1000 دورة تدريبية، يقدم تدريباً في الذكاء الاصطناعي، والأمن السيبراني، وتحليل البيانات، والحوسبة السحابية، ومهارات العمل مثل Design Thinking. يحصل المشاركون على شهادات رقمية معتمدة من IBM.",
+                                    "<strong>IBM Training:</strong> برامج تدريبية تقنية تغطي برمجيات وأجهزة IBM، بما في ذلك IBM Cloud وWatson وz/OS والحلول المؤسسية.",
+                                    "<strong>External Partnerships:</strong> دورات وشهادات متخصصة مقدمة عبر منصات مثل Coursera، تشمل علوم البيانات، والذكاء الاصطناعي، والأمن السيبراني، وتطوير البرمجيات.",
+                                    "<strong>Data Science & AI:</strong> استخبارات التهديدات، إدارة المخاطر، وبروتوكولات الأمان.",
+                                    "<strong>Cybersecurity:</strong> دورات وشهادات متخصصة في علوم البيانات، والذكاء الاصطناعي، والأمن السيبراني، وتطوير البرمجيات.",
+                                    "<strong>Cloud Computing:</strong> شهادات IBM Cloud وKubernetes وDevOps."
+                                ]
+                            },
+                            "institution": "IBM"
+                        },
+                        "ru": {
+                            "title": "IBM",
+                            "description": "Непрерывное профессиональное развитие через внутренние и внешние обучающие платформы IBM, приобретение практического опыта в облачных вычислениях, искусственном интеллекте, анализе данных, кибербезопасности и full-stack разработке. Практические навыки формировались через специализированные курсы, сертификации и обучение на проектах, укрепляя способности к решению проблем, DevOps и сотрудничеству.",
+                            "list": {
+                                "title": "Курсы:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> Внутренняя платформа IBM с курсами по облачным вычислениям, ИИ, анализу данных, кибербезопасности и др., адаптированными под роли сотрудников и карьерные цели.",
+                                    "<strong>IBM SkillsBuild:</strong> Онлайн-обучение с упором на навыки, более 1000 курсов в области ИИ, кибербезопасности, анализа данных, облачных технологий и навыков работы, таких как Design Thinking. Участники получают цифровые сертификаты IBM.",
+                                    "<strong>IBM Training:</strong> Технические учебные программы, охватывающие программное и аппаратное обеспечение IBM, включая IBM Cloud, Watson, z/OS и корпоративные решения.",
+                                    "<strong>External Partnerships:</strong> Специализированные курсы и сертификации через платформы, такие как Coursera, охватывающие науку о данных, ИИ, кибербезопасность и разработку ПО.",
+                                    "<strong>Data Science & AI:</strong> Разведка угроз, управление рисками и протоколы безопасности.",
+                                    "<strong>Cybersecurity:</strong> Специализированные курсы и сертификации в области науки о данных, ИИ, кибербезопасности и разработки ПО.",
+                                    "<strong>Cloud Computing:</strong> Сертификации IBM Cloud, Kubernetes и DevOps."
+                                ]
+                            },
+                            "institution": "IBM"
+                        },
+                        "ua": {
+                            "title": "IBM",
+                            "description": "Безперервний професійний розвиток через внутрішні та зовнішні навчальні платформи IBM, здобуття практичного досвіду у хмарних обчисленнях, штучному інтелекті, аналізі даних, кібербезпеці та full-stack розробці. Практичні навички набувалися через спеціалізовані курси, сертифікації та навчання на проєктах, зміцнюючи вміння вирішувати проблеми, DevOps та співпрацю.",
+                            "list": {
+                                "title": "Курси:",
+                                "items": [
+                                    "<strong>Your Learning:</strong> Внутрішня платформа IBM з курсами з хмарних обчислень, ШІ, аналізу даних, кібербезпеки та іншого, адаптованими під ролі співробітників і кар’єрні цілі.",
+                                    "<strong>IBM SkillsBuild:</strong> Онлайн-навчання, орієнтоване на навички, більше 1000 курсів з ШІ, кібербезпеки, аналізу даних, хмарних технологій та робочих навичок, таких як Design Thinking. Учасники отримують цифрові сертифікати IBM.",
+                                    "<strong>IBM Training:</strong> Технічні навчальні програми, що охоплюють програмне та апаратне забезпечення IBM, включаючи IBM Cloud, Watson, z/OS та корпоративні рішення.",
+                                    "<strong>External Partnerships:</strong> Спеціалізовані курси та сертифікації через платформи, такі як Coursera, що охоплюють науку про дані, ШІ, кібербезпеку та розробку ПЗ.",
+                                    "<strong>Data Science & AI:</strong> Розвідка загроз, управління ризиками та протоколи безпеки.",
+                                    "<strong>Cybersecurity:</strong> Спеціалізовані курси та сертифікації з науки про дані, ШІ, кібербезпеки та розробки ПЗ.",
+                                    "<strong>Cloud Computing:</strong> Сертифікації IBM Cloud, Kubernetes і DevOps."
+                                ]
+                            },
+                            "institution": "IBM"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

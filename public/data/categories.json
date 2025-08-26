@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "id": "home",
+            "faIcon": "fa-regular fa-user",
+            "locales": {
+                "en": {"nav_label": "Home"},
+                "he": {"nav_label": "בית"},
+                "pt": {"nav_label": "Início"}
+            }
+        },
+        {
+            "id": "background",
+            "faIcon": "fa-regular fa-clock",
+            "locales": {
+                "en": {"nav_label": "Background"},
+                "he": {"nav_label": "רקע"},
+                "pt": {"nav_label": "Histórico"}
+            }
+        },
+        {
+            "id": "showcase",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {"nav_label": "Showcase"},
+                "he": {"nav_label": "תצוגה"},
+                "pt": {"nav_label": "Portfólio"}
+            }
+        },
+        {
+            "id": "more",
+            "faIcon": "fa-regular fa-folder-open",
+            "locales": {
+                "en": {"nav_label": "Showcase"},
+                "he": {"nav_label": "תצוגה"},
+                "pt": {"nav_label": "Portfólio"}
+            }
+        }
+    ]
+}

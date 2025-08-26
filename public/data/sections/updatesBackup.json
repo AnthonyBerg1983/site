@@ -1,0 +1,208 @@
+{
+    "articles": [
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Studying...",
+                    "description": "Here's what I'm currently diving into and sharpening my skills in:"
+                },
+                "de": {
+                    "title": "Ich lerne gerade...",
+                    "description": "Hier siehst du, worin ich gerade eintauche und meine Skills vertiefe:"
+                },
+                "it": {
+                    "title": "Sto studiando...",
+                    "description": "Ecco su cosa mi sto concentrando per migliorare le mie competenze:"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": "pie"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": "#61DBFB",
+                    "percentage": 35,
+                    "locales": {
+                        "en": {
+                            "title": "DevOps & Cloud",
+                            "description": "Enhancing skills in containerization and cloud deployments using Docker, Docker Compose, GitLab CI/CD, and AWS services (S3, EC2, IAM) to maintain secure, scalable, and reliable application infrastructure."
+                        },
+                        "de": {
+                            "title": "React JS",
+                            "description": "Moderne UI mit React"
+                        },
+                        "it": {
+                            "title": "React JS",
+                            "description": "UI moderna con React"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-solid fa-pencil-ruler",
+                    "fallbackFaIconColor": "#f5a623",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Machine Learning & AI Infrastructure",
+                            "description": "Implementing infrastructure, features, and bug fixes for ML systems in regional microservice environments. Experimenting with integrating ML models and building applications using Olama, SillyTavernAI, and LLMFarm, including threat detection, phishing analysis, and LLM-based workflows."
+                        },
+                        "de": {
+                            "title": "UI/UX Design",
+                            "description": "Bessere Design-Skills"
+                        },
+                        "it": {
+                            "title": "Design UI/UX",
+                            "description": "Competenze di design"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": "#616efb",
+                    "percentage": 25,
+                    "locales": {
+                        "en": {
+                            "title": "Data Structures & Algorithms",
+                            "description": "Expanding understanding of arrays, linked lists, stacks, queues, trees, heaps, and hash tables. Practicing algorithm design for sorting, searching, and data manipulation with Python and JavaScript, including recursion, dynamic programming, graph algorithms, and complexity analysis."
+                        },
+                        "de": {
+                            "title": "React Native",
+                            "description": "Mobile Apps mit React"
+                        },
+                        "it": {
+                            "title": "React Native",
+                            "description": "App mobili con React"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "fallbackFaIcon": "fa-solid fa-seedling",
+                    "fallbackFaIconColor": "#903dc4",
+                    "percentage": 15,
+                    "locales": {
+                        "en": {
+                            "title": "Full-Stack & Backend Skills",
+                            "description": "Continuing to strengthen Python (Flask), Node.js, and database (MongoDB/MySQL) skills. Practicing design of RESTful APIs, microservices, and cloud-deployed applications on AWS, integrating backend systems with frontend components."
+                        },
+                        "de": {
+                            "title": "Plinia",
+                            "description": "Fullstack mit Vite"
+                        },
+                        "it": {
+                            "title": "Plinia",
+                            "description": "Fullstack con Vite"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": "#42b883",
+                    "percentage": 10,
+                    "locales": {
+                        "en": {
+                            "title": "Vue & Frontend Development",
+                            "description": "Deepening expertise in building scalable and performant Vue 3 applications using the Composition API, Vuex/Pinia, Nuxt, Vue Router, and Vuetify. Focused on component-based architecture, responsive UI, and advanced API integration techniques."
+                        },
+                        "de": {
+                            "title": "Vuetify",
+                            "description": "Vue + Material Design"
+                        },
+                        "it": {
+                            "title": "Vuetify",
+                            "description": "Vue + Material Design"
+                        }
+                    }
+                }
+            ]
+
+        },
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": ""
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "transparent_item_icon_background": true,
+                "small_icons": false
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "fallbackFaIcon": "fa-solid fa-walkie-talkie",
+                    "locales": {
+                        "en": {
+                            "title": "Mesh Networking – Personal Projects",
+                            "description": "Diving into mesh network communication using Meshtastic, experimenting with decentralized communication protocols and real-time data exchange across devices."
+                        },
+                        "de": {
+                            "description": "Verliehen von CodeCrafters: Anerkennung für fortgeschrittene Optimierungstechniken und Performance-Tuning in Vue-Anwendungen."
+                        },
+                        "it": {
+                            "description": "Rilasciata da CodeCrafters, attesta la padronanza delle tecniche avanzate di ottimizzazione delle performance nelle app Vue."
+                        }
+                    },
+                    "links": [
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "fallbackFaIcon": "fa-brands fa-connectdevelop",
+                    "locales": {
+                        "en": {
+                            "title": "Music Technology & Firmware Development",
+                            "description": "Developing features for The-Wee-O3, an ionized O2 MiniPop device. Creating merged firmware for Ambika Yam and Kaz devices, experimenting with audio hardware programming and signal processing."
+                        },
+                        "de": {
+                            "description": "Zertifiziert vom WebDev Institute: Behandelt die Integration von RESTful- und GraphQL-APIs in Vue-Anwendungen."
+                        },
+                        "it": {
+                            "description": "Rilasciato dal WebDev Institute, questo corso tratta l'integrazione di API RESTful e GraphQL nelle app Vue."
+                        }
+                    },
+                    "links": [
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "fallbackFaIcon": "fa-brands fa-raspberry-pi",
+                    "locales": {
+                        "en": {
+                            "title": "Raspberry Pi & Embedded Systems",
+                            "description": "Exploring various Raspberry Pi builds and bare-metal applications. Experimenting with low-level programming, hardware interfacing, and custom OS deployment for embedded and IoT projects."
+                        },
+                        "de": {
+                            "description": "Zertifiziert vom WebDev Institute: Behandelt die Integration von RESTful- und GraphQL-APIs in Vue-Anwendungen."
+                        },
+                        "it": {
+                            "description": "Rilasciato dal WebDev Institute, questo corso tratta l'integrazione di API RESTful e GraphQL nelle app Vue."
+                        }
+                    },
+                    "links": [
+                        {"href": "https://res.cloudinary.com/certifier/image/upload/v1718876081/completion_certificate_templates_Certifier_blog_stylish_758c35f7ac.jpg", "stringKey": "view_certification"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
