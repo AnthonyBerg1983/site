@@ -4,30 +4,39 @@
             "id": 1,
             "component": "ArticleProfile",
             "settings": {
-                "contact_list_ids": ["address", "email", "phone"],
-                "contact_circles_ids": ["github", "linkedin", "instagram", "facebook"]
+                "contact_list_ids": [
+                    "address",
+                    "email",
+                    "phone"
+                ],
+                "contact_circles_ids": [
+                    "github",
+                    "linkedin",
+                    "instagram",
+                    "facebook"
+                ]
             },
             "items": [
                 {
                     "id": 1,
                     "locales": {
                         "en": {
-                            "description": "I am a Full-Stack Developer with over ten years of experience at IBM Trusteer, specializing in cybersecurity solutions and quality assurance engineering. My journey began in Technical Support, where I developed a deep understanding of customer needs and our cybersecurity products. This foundation led me to a QA Engineer role, where I created automation testing frameworks and conducted security assessments before advancing to a strategic development team."
+                            "description": "I am a Full-Stack Developer specializing in cybersecurity solutions, QA engineering, and secure software development. With over ten years of experience at IBM, I’ve witnessed the industry’s shift from sample-based defense to proactive, data-driven threat detection."
                         },
                         "he": {
-                            "description": "אני מפתח פול-סטאק עם יותר מעשר שנות ניסיון ב-IBM Trusteer, מתמחה בפתרונות סייבר והנדסת אבטחת איכות. התחלתי את דרכי בתמיכה טכנית, שם רכשתי הבנה עמוקה של צורכי הלקוחות והמוצרים שלנו בתחום הסייבר. בסיס זה הוביל אותי לתפקיד מהנדס QA, שבו פיתחתי מסגרות אוטומציה לבדיקות וביצעתי הערכות אבטחה לפני שהתקדמתי לצוות פיתוח אסטרטגי."
+                            "description": "אני מפתח פול-סטאק המתמחה בפתרונות סייבר, הנדסת QA ופיתוח תוכנה מאובטחת. עם יותר מעשר שנות ניסיון ב-IBM, הייתי עד למעבר התעשייה מהגנה מבוססת דגימות לזיהוי איומים פרואקטיבי ומבוסס נתונים."
                         },
                         "pt": {
-                            "description": "Sou Desenvolvedor Full-Stack com mais de dez anos de experiência na IBM Trusteer, especializado em soluções de cibersegurança e engenharia de garantia de qualidade. Minha jornada começou no Suporte Técnico, onde desenvolvi um profundo entendimento das necessidades dos clientes e de nossos produtos de cibersegurança. Essa base me levou ao cargo de Engenheiro de QA, onde criei frameworks de testes automatizados e realizei avaliações de segurança antes de avançar para uma equipe de desenvolvimento estratégico."
+                            "description": "Sou Desenvolvedor Full-Stack especializado em soluções de cibersegurança, engenharia de QA e desenvolvimento seguro de software. Com mais de dez anos de experiência na IBM, testemunhei a mudança da indústria de uma defesa baseada em amostras para a detecção proativa de ameaças baseada em dados."
                         },
                         "ar": {
-                            "description": "أنا مطوّر فل-ستاك لدي أكثر من عشر سنوات من الخبرة في IBM Trusteer، متخصص في حلول الأمن السيبراني وهندسة ضمان الجودة. بدأت رحلتي في الدعم الفني، حيث طوّرت فهماً عميقاً لاحتياجات العملاء ومنتجاتنا في مجال الأمن السيبراني. هذا الأساس قادني إلى دور مهندس ضمان الجودة، حيث أنشأت أُطر اختبار آلية وأجريت تقييمات أمنية قبل أن أتقدّم إلى فريق تطوير استراتيجي."
+                            "description": "أنا مطور Full-Stack متخصص في حلول الأمن السيبراني، هندسة ضمان الجودة، وتطوير البرمجيات الآمنة. مع أكثر من عشر سنوات من الخبرة في IBM، كنت شاهدًا على تحول الصناعة من الدفاع القائم على العينات إلى الكشف الاستباقي عن التهديدات القائم على البيانات."
                         },
                         "ru": {
-                            "description": "Я Full-Stack разработчик с более чем десятью годами опыта в IBM Trusteer, специализируюсь на решениях в области кибербезопасности и инженерии обеспечения качества. Мой путь начался в технической поддержке, где я получил глубокое понимание потребностей клиентов и наших продуктов по кибербезопасности. Эта основа привела меня к роли инженера QA, где я создавал фреймворки для автоматизированного тестирования и проводил оценки безопасности, прежде чем перейти в стратегическую команду разработчиков."
+                            "description": "Я Full-Stack разработчик, специализирующийся на решениях в области кибербезопасности, QA-инжиниринге и безопасной разработке программного обеспечения. С более чем десятью годами опыта в IBM я стал свидетелем перехода отрасли от защиты на основе образцов к проактивному, ориентированному на данные обнаружению угроз."
                         },
                         "ua": {
-                            "description": "Я Full-Stack розробник із понад десятьма роками досвіду в IBM Trusteer, спеціалізуюся на рішеннях з кібербезпеки та інженерії забезпечення якості. Мій шлях почався у технічній підтримці, де я здобув глибоке розуміння потреб клієнтів і наших продуктів у сфері кібербезпеки. Ця основа привела мене до ролі інженера QA, де я створював фреймворки для автоматизованого тестування та проводив оцінки безпеки, перш ніж перейти до стратегічної команди розробки."
+                            "description": "Я Full-Stack розробник, спеціалізуюся на рішеннях з кібербезпеки, QA-інженерії та безпечній розробці програмного забезпечення. Маючи понад десять років досвіду в IBM, я спостерігав перехід галузі від захисту на основі зразків до проактивного, орієнтованого на дані виявлення загроз."
                         }
                     }
                 },
@@ -35,22 +44,22 @@
                     "id": 2,
                     "locales": {
                         "en": {
-                            "description": "I focus on enhancing security infrastructure, maintaining and developing server-side logic with Python, and ensuring seamless integration with front-end interfaces. I have designed and developed robust web applications using modern technologies such as Node.js, Vue.js, and Angular. My commitment to secure coding practices has significantly reduced vulnerabilities and minimized cyber threats."
+                            "description": "My career began as a Phishing Analyst and Technical Support Engineer, where I manually identified phishing threats, improved detection accuracy, and gained a deep understanding of both customer needs and cybersecurity products. This foundation led me to a QA Engineer role, where I tested live malware, collaborated with researchers and reverse engineers, and built automation frameworks to strengthen security assessments."
                         },
                         "he": {
-                            "description": "ההתמקדות שלי היא בשיפור תשתיות האבטחה, תחזוקה ופיתוח לוגיקה בצד השרת באמצעות Python, והבטחת אינטגרציה חלקה עם ממשקי הפרונטאנד. תכננתי ופיתחתי יישומי ווב מתקדמים באמצעות טכנולוגיות מודרניות כמו Node.js, ‏Vue.js ו-Angular. המחויבות שלי לשיטות קידוד מאובטחות צמצמה באופן משמעותי פגיעויות והקטינה איומי סייבר."
+                            "description": "הקריירה שלי התחילה כאנליסט פישינג ומהנדס תמיכה טכנית, שם זיהיתי איומי פישינג באופן ידני, שיפרתי את דיוק הזיהוי ורכשתי הבנה עמוקה של צורכי הלקוחות ומוצרי הסייבר. בסיס זה הוביל אותי לתפקיד מהנדס QA, שבו בדקתי נוזקות חיות, עבדתי עם חוקרים ומהנדסי רברס ובניתי מסגרות אוטומציה לחיזוק הערכות האבטחה."
                         },
                         "pt": {
-                            "description": "Meu foco é aprimorar a infraestrutura de segurança, manter e desenvolver a lógica do lado do servidor com Python e garantir a integração perfeita com as interfaces de front-end. Projetei e desenvolvi aplicações web robustas utilizando tecnologias modernas como Node.js, Vue.js e Angular. Meu compromisso com práticas de codificação segura reduziu significativamente vulnerabilidades e minimizou ameaças cibernéticas."
+                            "description": "Minha carreira começou como Analista de Phishing e Engenheiro de Suporte Técnico, onde identifiquei manualmente ameaças de phishing, melhorei a precisão da detecção e adquiri um entendimento profundo das necessidades dos clientes e dos produtos de cibersegurança. Essa base me levou a um cargo de Engenheiro de QA, onde testei malwares em tempo real, colaborei com pesquisadores e engenheiros de reversão e construí frameworks de automação para reforçar as avaliações de segurança."
                         },
                         "ar": {
-                            "description": "أركز على تحسين بنية الأمن، وصيانة وتطوير منطق جانب الخادم باستخدام Python، وضمان التكامل السلس مع واجهات الواجهة الأمامية. لقد صممت وطوّرت تطبيقات ويب قوية باستخدام تقنيات حديثة مثل Node.js وVue.js وAngular. التزامي بممارسات البرمجة الآمنة قلّل بشكل كبير من الثغرات الأمنية وقلّص التهديدات السيبرانية."
+                            "description": "بدأت مسيرتي المهنية كمحلل تصيد ومهندس دعم فني، حيث قمت بتحديد تهديدات التصيد يدويًا، وتحسين دقة الاكتشاف، واكتساب فهم عميق لاحتياجات العملاء ومنتجات الأمن السيبراني. هذا الأساس قادني إلى دور مهندس QA، حيث اختبرت برمجيات خبيثة حية، وتعاونت مع الباحثين ومهندسي الهندسة العكسية، وبنيت أطر أتمتة لتعزيز تقييمات الأمان."
                         },
                         "ru": {
-                            "description": "Я сосредоточен на улучшении инфраструктуры безопасности, поддержке и разработке серверной логики на Python, а также на обеспечении бесшовной интеграции с интерфейсами фронтенда. Я проектировал и разрабатывал надежные веб-приложения с использованием современных технологий, таких как Node.js, Vue.js и Angular. Моя приверженность безопасным практикам программирования значительно сократила уязвимости и минимизировала киберугрозы."
+                            "description": "Моя карьера началась с должности аналитика фишинга и инженера технической поддержки, где я вручную выявлял фишинговые угрозы, повышал точность обнаружения и глубоко понимал потребности клиентов и продукты кибербезопасности. Эта база привела меня к роли инженера QA, где я тестировал живое вредоносное ПО, сотрудничал с исследователями и реверс-инженерами и создавал фреймворки автоматизации для укрепления оценки безопасности."
                         },
                         "ua": {
-                            "description": "Я зосереджуюсь на покращенні інфраструктури безпеки, підтримці та розробці серверної логіки на Python, а також на забезпеченні безшовної інтеграції з інтерфейсами фронтенду. Я проєктував і розробляв надійні вебзастосунки з використанням сучасних технологій, таких як Node.js, Vue.js та Angular. Моя відданість безпечним практикам програмування суттєво зменшила вразливості та мінімізувала кіберзагрози."
+                            "description": "Моя кар'єра почалася як аналітик фішингу та інженер технічної підтримки, де я вручну визначав загрози фішингу, підвищував точність виявлення та здобув глибоке розуміння потреб клієнтів і продуктів кібербезпеки. Ця база привела мене до ролі інженера QA, де я тестував активні шкідливі програми, співпрацював із дослідниками та реверс-інженерами і створював фреймворки автоматизації для підвищення оцінки безпеки."
                         }
                     }
                 },
@@ -58,22 +67,22 @@
                     "id": 3,
                     "locales": {
                         "en": {
-                            "description": "I develop and maintain systems that categorize cybersecurity threats by integrating machine learning models, enhancing real-time analytics and threat detection. My experience in developing RESTful APIs and microservices ensures efficient communication between client-side and server-side applications. Additionally, I focus on data analytics, processing, parsing, and filtering information to create functional web applications. My expertise in deploying applications on cloud platforms like AWS allows me to optimize performance while maintaining a secure infrastructure."
+                            "description": "Most recently, as a Security Developer, I design and maintain frontend and backend features for AI-driven phishing detection platforms, support large-scale data aggregation and analysis, and troubleshoot production issues for high-pressure financial environments. My work ensures analysts and researchers can respond to threats quickly and effectively."
                         },
                         "he": {
-                            "description": "אני מפתח ומתחזק מערכות שמסווגות איומי סייבר באמצעות שילוב מודלים של למידת מכונה, שיפור אנליטיקה בזמן אמת וזיהוי איומים. הניסיון שלי בפיתוח RESTful APIs ומיקרו-שירותים מבטיח תקשורת יעילה בין אפליקציות צד לקוח וצד שרת. בנוסף, אני מתמקד באנליטיקה של נתונים — עיבוד, ניתוח וסינון מידע ליצירת יישומי ווב פונקציונליים. המומחיות שלי בפריסת יישומים בפלטפורמות ענן כמו AWS מאפשרת לי לשפר ביצועים תוך שמירה על תשתית מאובטחת."
+                            "description": "בתפקידי האחרון כמפתח אבטחה אני מעצב ומתחזק רכיבי פרונטאנד ובקאנד עבור פלטפורמות זיהוי פישינג מבוססות AI, תומך באיסוף וניתוח נתונים בקנה מידה גדול ופותר בעיות ייצור בסביבות פיננסיות לחוצות. עבודתי מבטיחה שהאנליסטים והחוקרים יוכלו להגיב לאיומים במהירות וביעילות."
                         },
                         "pt": {
-                            "description": "Desenvolvo e mantenho sistemas que categorizam ameaças de cibersegurança integrando modelos de aprendizado de máquina, aprimorando a análise em tempo real e a detecção de ameaças. Minha experiência no desenvolvimento de APIs RESTful e microsserviços garante comunicação eficiente entre aplicações cliente e servidor. Além disso, foco em análise de dados — processamento, parsing e filtragem de informações para criar aplicações web funcionais. Minha expertise em implantar aplicações em plataformas de nuvem como a AWS me permite otimizar o desempenho mantendo uma infraestrutura segura."
+                            "description": "Mais recentemente, como Desenvolvedor de Segurança, projetei e mantenho recursos de frontend e backend para plataformas de detecção de phishing baseadas em IA, apoio a agregação e análise de dados em grande escala e soluciono problemas de produção em ambientes financeiros de alta pressão. Meu trabalho garante que analistas e pesquisadores possam responder rapidamente e de forma eficaz às ameaças."
                         },
                         "ar": {
-                            "description": "أطوّر وأُدير أنظمة تقوم بتصنيف تهديدات الأمن السيبراني من خلال دمج نماذج تعلم الآلة، وتعزيز التحليلات في الوقت الفعلي والكشف عن التهديدات. خبرتي في تطوير RESTful APIs والخدمات المصغّرة تضمن اتصالاً فعالاً بين تطبيقات جانب العميل والخادم. بالإضافة إلى ذلك، أركز على تحليلات البيانات — المعالجة، والتحليل، وتصنيف المعلومات لإنشاء تطبيقات ويب عملية. خبرتي في نشر التطبيقات على منصات سحابية مثل AWS تمكّنني من تحسين الأداء مع الحفاظ على بنية تحتية آمنة."
+                            "description": "في دوري الأخير كمطور أمني، أصمّم وأُصون ميزات الواجهة الأمامية والخلفية لمنصات الكشف عن التصيد الاحتيالي المدفوعة بالذكاء الاصطناعي، وأدعم تجميع وتحليل البيانات على نطاق واسع، وأحل مشكلات الإنتاج في بيئات مالية عالية الضغط. يضمن عملي أن يتمكن المحللون والباحثون من الاستجابة للتهديدات بسرعة وفعالية."
                         },
                         "ru": {
-                            "description": "Я разрабатываю и поддерживаю системы, которые классифицируют киберугрозы с помощью интеграции моделей машинного обучения, улучшая аналитику в реальном времени и обнаружение угроз. Мой опыт разработки RESTful API и микросервисов обеспечивает эффективное взаимодействие между клиентскими и серверными приложениями. Кроме того, я сосредоточен на аналитике данных — обработке, парсинге и фильтрации информации для создания функциональных веб-приложений. Мой опыт развертывания приложений на облачных платформах, таких как AWS, позволяет оптимизировать производительность при сохранении безопасной инфраструктуры."
+                            "description": "В своей последней роли разработчика по безопасности я проектирую и поддерживаю функции фронтенда и бэкенда для платформ обнаружения фишинга на основе ИИ, поддерживаю агрегацию и анализ данных в крупном масштабе и решаю производственные проблемы в условиях высокого давления в финансовой сфере. Моя работа гарантирует, что аналитики и исследователи могут быстро и эффективно реагировать на угрозы."
                         },
                         "ua": {
-                            "description": "Я розробляю та підтримую системи, які класифікують кіберзагрози, інтегруючи моделі машинного навчання, покращуючи аналітику в реальному часі та виявлення загроз. Мій досвід у розробці RESTful API та мікросервісів забезпечує ефективну комунікацію між клієнтськими та серверними застосунками. Крім того, я зосереджуюсь на аналітиці даних — обробці, парсингу та фільтрації інформації для створення функціональних вебзастосунків. Мій досвід у розгортанні застосунків на хмарних платформах, таких як AWS, дозволяє оптимізувати продуктивність при збереженні безпечної інфраструктури."
+                            "description": "У своїй останній ролі як розробник безпеки я проектую та підтримую функції фронтенду та бекенду для платформ виявлення фішингу на базі ШІ, підтримую збір та аналіз даних у великому масштабі та вирішую виробничі проблеми у фінансових середовищах під високим тиском. Моя робота забезпечує швидку та ефективну реакцію аналітиків і дослідників на загрози."
                         }
                     }
                 },
@@ -81,22 +90,22 @@
                     "id": 4,
                     "locales": {
                         "en": {
-                            "description": "I thrive in collaborative environments and take pride in promoting best practices in secure coding and agile methodologies. Passionate about developing innovative cybersecurity solutions, I am eager to contribute my skills to a dynamic team."
+                            "description": "From entry-level roles to strategic development teams, I’ve developed a strong foundation in software engineering and cybersecurity. I specialize in server-side development with Python, and seamless integration with modern frontend frameworks such as Node.js, Vue.js, and Angular. I combine hands-on experience in phishing detection, malware analysis, and full-stack development to deliver secure, reliable solutions in fast-moving, collaborative environments. Driven by a passion for innovative cybersecurity, I thrive on tackling complex challenges with creativity, precision, and a focus on real-world impact."
                         },
                         "he": {
-                            "description": "אני פורח בסביבות עבודה שיתופיות וגאה לקדם שיטות עבודה מומלצות בקידוד מאובטח ומתודולוגיות אג'יל. אני נלהב לפתח פתרונות חדשניים בתחום הסייבר ושואף לתרום מכישורי לצוות דינמי."
+                            "description": "מהתפקידים הראשוניים ועד לצוותי הפיתוח האסטרטגיים, פיתחתי בסיס חזק בהנדסת תוכנה וסייבר. אני מתמחה בפיתוח צד שרת ב-Python ובשילוב חלק עם מסגרות פרונטאנד מודרניות כמו Node.js, Vue.js ו-Angular. עם ניסיון מעשי בזיהוי פישינג, ניתוח נוזקות ופיתוח פול-סטאק, אני מספק פתרונות מאובטחים ואמינים בסביבות דינמיות ושיתופיות. נלהב מפתרונות חדשניים בתחום הסייבר, אני פורץ דרך באתגרים מורכבים עם יצירתיות, דיוק ומיקוד בהשפעה בעולם האמיתי."
                         },
                         "pt": {
-                            "description": "Desenvolvo-me bem em ambientes colaborativos e tenho orgulho em promover as melhores práticas de codificação segura e metodologias ágeis. Apaixonado por desenvolver soluções inovadoras de cibersegurança, estou ansioso para contribuir com minhas habilidades para uma equipe dinâmica."
+                            "description": "Desde funções iniciais até equipes de desenvolvimento estratégicas, desenvolvi uma base sólida em engenharia de software e cibersegurança. Especializo-me em desenvolvimento do lado do servidor com Python e integração perfeita com frameworks modernos de frontend, como Node.js, Vue.js e Angular. Com experiência prática em detecção de phishing, análise de malware e desenvolvimento full-stack, entrego soluções seguras e confiáveis em ambientes colaborativos e dinâmicos. Movido pela paixão por cibersegurança inovadora, prospero ao enfrentar desafios complexos com criatividade, precisão e foco no impacto real."
                         },
                         "ar": {
-                            "description": "أزدهر في بيئات العمل التعاونية وأفتخر بتعزيز أفضل الممارسات في البرمجة الآمنة والمنهجيات الرشيقة. شغوف بتطوير حلول مبتكرة في مجال الأمن السيبراني، أتطلع إلى المساهمة بمهاراتي في فريق ديناميكي."
+                            "description": "من الأدوار المبتدئة إلى فرق التطوير الاستراتيجية، طورت أساسًا قويًا في هندسة البرمجيات والأمن السيبراني. أتخصص في تطوير جانب الخادم باستخدام Python والتكامل السلس مع أطر عمل حديثة للواجهة الأمامية مثل Node.js وVue.js وAngular. مع خبرة عملية في اكتشاف التصيد الاحتيالي وتحليل البرمجيات الخبيثة والتطوير الكامل للتطبيقات، أقدم حلولًا آمنة وموثوقة في بيئات ديناميكية وتعاونية. مدفوع بشغف للأمن السيبراني المبتكر، أتفوق في مواجهة التحديات المعقدة بالإبداع والدقة والتركيز على التأثير الواقعي."
                         },
                         "ru": {
-                            "description": "Я процветаю в совместной среде и горжусь тем, что продвигаю лучшие практики безопасного кодирования и гибких методологий. Увлечён разработкой инновационных решений в области кибербезопасности и стремлюсь внести свой вклад в работу динамичной команды."
+                            "description": "От начальных ролей до стратегических команд разработки я создал прочную основу в области программной инженерии и кибербезопасности. Я специализируюсь на серверной разработке с Python и бесшовной интеграции с современными фронтенд-фреймворками, такими как Node.js, Vue.js и Angular. С практическим опытом в обнаружении фишинга, анализе вредоносного ПО и full-stack разработке, я предоставляю безопасные и надежные решения в динамичных и совместных средах. Вдохновленный инновациями в области кибербезопасности, я успешно решаю сложные задачи с креативностью, точностью и фокусом на реальном эффекте."
                         },
                         "ua": {
-                            "description": "Я добре працюю в колаборативних середовищах і пишаюся тим, що просуваю найкращі практики безпечного кодування та гнучкі методології. Пристрасно займаюся розробкою інноваційних рішень у сфері кібербезпеки й прагну застосувати свої навички в динамічній команді."
+                            "description": "Від початкових посад до стратегічних команд розробників я створив міцний фундамент у програмній інженерії та кібербезпеці. Я спеціалізуюся на серверній розробці з Python та безшовній інтеграції з сучасними фронтенд-фреймворками, такими як Node.js, Vue.js та Angular. Маючи практичний досвід у виявленні фішингу, аналізі шкідливого ПЗ та full-stack розробці, я надаю безпечні та надійні рішення у динамічних та колаборативних середовищах. Натхненний інноваційною кібербезпекою, я успішно вирішую складні завдання з креативністю, точністю та орієнтацією на реальний вплив."
                         }
                     }
                 }
