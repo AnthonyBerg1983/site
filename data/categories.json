@@ -29,9 +29,9 @@
         },
         {
             "id": "more",
-            "faIcon": "fa-regular fa-folder-open",
+            "faIcon": "fa-regular fa-address-book",
             "locales": {
-                "en": {"nav_label": "Showcase"},
+                "en": {"nav_label": "contact"},
                 "he": {"nav_label": "תצוגה"},
                 "pt": {"nav_label": "Portfólio"}
             }
