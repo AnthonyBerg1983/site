@@ -49,20 +49,6 @@
             "href": "mailto:urchin.us@gmail.com"
         },
         {
-            "id": "github",
-            "value": "@AnthonyBerg1983",
-            "valueShort": "@AnthonyBerg1983",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/AnthonyBerg1983"
-        },
-        {
-            "id": "instagram",
-            "value": "@tuviaberg",
-            "valueShort": "@tuviaberg",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com/tuviaberg"
-        },
-        {
             "id": "linkedin",
             "value": "berganthony",
             "valueShort": "berganthonyfa-regular fa-envelope",
@@ -75,13 +61,6 @@
             "valueShort": "(312) 975-7999",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:13129757999"
-        },
-        {
-            "id": "facebook",
-            "value": "AnthonyBerg1983",
-            "valueShort": "https://www.facebook.com/AnthonyBerg1983",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://www.facebook.com/AnthonyBerg1983"
         }
     ]
 }
