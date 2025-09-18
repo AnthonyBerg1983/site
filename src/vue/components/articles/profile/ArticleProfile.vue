@@ -3,18 +3,18 @@
              :model="model">
         <h1 class="title display-1 mb-3"
             v-html="title"/>
-
-        <InlineLinkList :items="InlineLinkListLinks"/>
-
+    <div class="d-flex align-items-center gap-3">
+        <SocialLinks
+            :items="socialLinks"
+            variant="dark"
+        />
+        <InlineLinkList :items="InlineLinkListLinks" />
+    </div>
         <div class="items-wrapper py-2 py-lg-3">
             <ArticleProfileItem v-for="item in model.items"
                                 :item="item"/>
         </div>
 
-        <SocialLinks :items="socialLinks"
-                     class="pt-lg-1"
-                     size="3"
-                     variant="dark"/>
     </Article>
 </template>
 
