@@ -88,9 +88,7 @@
                     "address",
                     "phone",
                     "email",
-                    "linkedin",
-                    "facebook",
-                    "github"
+                    "linkedin"
                 ],
                 "contact_js_public_key": "HTZBW8gbNHKTygn5Z",
                 "contact_js_service_id": "service_mfvvvj9",
