@@ -36,8 +36,8 @@
     "contactOptions": [
         {
             "id": "address",
-            "value": "Long Beach, NY",
-            "valueShort": "Long Beach – NY",
+            "value": "Brooklyn, NY",
+            "valueShort": "Brooklyn – NY",
             "faIcon": "fa-regular fa-map",
             "href": null
         },
